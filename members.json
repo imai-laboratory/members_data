@@ -22,29 +22,71 @@
         "name": {"ja": "岨野 太一", "en": "Taichi Sono"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
         "email": "sono＠ailab.ics.keio.ac.jp",
-        "img": "sono.png"
+        "img": "sono.jpg"
       },
       {
         "name": {"ja": "松元 崇裕", "en": "Takahiro Matumoto"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
         "email": "matumoto＠ailab.ics.keio.ac.jp",
-        "img": "matumoto.png"
+        "img": "matumoto.jpg"
       },
       {
         "name": {"ja": "大澤 正彦", "en": "Masahiko Osawa"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
         "email": "mosawa＠ailab.ics.keio.ac.jp",
-        "img": "mosawa.png"
+        "img": "mosawa.jpg"
       }
     ]
   }, {
     "role": {"ja": "大学院生 (修士過程)", "en": "M.S. Candidate"},
     "members": [
       {
-        "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
-        "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
-        "email": "michita＠ailab.ics.keio.ac.jp",
-        "img": "imai.png"
+        "name": {"ja": "山本 裕貴", "en": "Yuki Yamamoto"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "yamamoto＠ailab.ics.keio.ac.jp",
+        "img": "yamamoto.jpg"
+      },
+      {
+        "name": {"en": "Richard Vincent"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "vincent＠ailab.ics.keio.ac.jp",
+        "img": "vincent.jpg"
+      },
+      {
+        "name": {"en": "Constant Damien"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "damien＠ailab.ics.keio.ac.jp",
+        "img": "damien.jpg"
+      },
+      {
+        "name": {"ja": "蓮本 諒介", "en": "Kyosuke Hasumoto"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "hasumoto＠ailab.ics.keio.ac.jp",
+        "img": "hasumoto.jpg"
+      },
+      {
+        "name": {"ja": "馮 建美", "en": "Kenmi Hyo"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "hyo＠ailab.ics.keio.ac.jp",
+        "img": "hyo.jpg"
+      },
+      {
+        "name": {"ja": "安松 勇紀", "en": "Yuki Yasumatu"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "yasumatsu＠ailab.ics.keio.ac.jp",
+        "img": "yasumatsu.jpg"
+      },
+      {
+        "name": {"ja": "山内 守", "en": "Mamoru Yamanouchi"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "yamanouchi＠ailab.ics.keio.ac.jp",
+        "img": "yamanouchi.jpg"
+      },
+      {
+        "name": {"ja": "山田 賢治", "en": "Kenji Yamada"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "yamada＠ailab.ics.keio.ac.jp",
+        "img": "yamada.jpg"
       }
     ]
   }, {
