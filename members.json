@@ -6,13 +6,55 @@
         "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
         "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
         "email": "michita＠ailab.ics.keio.ac.jp",
-        "img": "imai_michita.png",
+        "img": "imai.png",
         "option": "<a href='http://www.ayu.ics.keio.ac.jp/~michita/'>Home Page</a>"
       }, {
         "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"} ,
         "grade": {"ja": "博士(工学), 教授", "en": "Researcher"},
-        "img": "hasegawa_komei.jpg",
+        "img": "hasegawa.jpg",
         "email": "komei＠ilab.ics.keio.ac.jp"
+      }
+    ]
+  }, {
+    "role": {"ja": "大学院生 (博士過程)", "en": "Ph.D. Candidate"},
+    "members": [
+      {
+        "name": {"ja": "岨野 太一", "en": "Taichi Sono"} ,
+        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "email": "sono＠ailab.ics.keio.ac.jp",
+        "img": "sono.png"
+      },
+      {
+        "name": {"ja": "松元 崇裕", "en": "Takahiro Matumoto"} ,
+        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "email": "matumoto＠ailab.ics.keio.ac.jp",
+        "img": "matumoto.png"
+      },
+      {
+        "name": {"ja": "大澤 正彦", "en": "Masahiko Osawa"} ,
+        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "email": "mosawa＠ailab.ics.keio.ac.jp",
+        "img": "mosawa.png"
+      }
+    ]
+  }, {
+    "role": {"ja": "大学院生 (修士過程)", "en": "M.S. Candidate"},
+    "members": [
+      {
+        "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
+        "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
+        "email": "michita＠ailab.ics.keio.ac.jp",
+        "img": "imai.png"
+      }
+    ]
+  }, {
+    "role": {"ja": "学部生", "en": "Undergraduate"},
+    "members": [
+      {
+        "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
+        "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
+        "email": "michita＠ailab.ics.keio.ac.jp",
+        "img": "imai.png"
       }
     ]
   }
