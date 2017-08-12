@@ -6,10 +6,12 @@
         "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
         "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
         "email": "michita＠ailab.ics.keio.ac.jp",
+        "img": "imai_michita.png",
         "other": "<a href='http://www.ayu.ics.keio.ac.jp/~michita/'>Home Page</a>"
       }, {
         "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"} ,
         "grade": {"ja": "博士(工学), 教授", "en": "Researcher"},
+        "img": "hasegawa_komei.jpg",
         "email": "komei＠ilab.ics.keio.ac.jp"
       }
     ]
