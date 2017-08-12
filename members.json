@@ -1,0 +1,13 @@
+[
+  {
+    "role": "staff",
+    "member": [
+      {
+        "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
+        "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
+        "email": "michita＠ailab.ics.keio.ac.jp",
+        "other": "<a href='http://www.ayu.ics.keio.ac.jp/~michita/'>Home Page</a>"
+      }
+    ]
+  }
+]
