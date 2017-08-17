@@ -3,7 +3,7 @@
     "year": 2017,
     "members": [
       { "name": { "en": "Gomez Lopez Miguel" }, "grade": "m" },
-      { "name": { "en": "Franz Van Horenbeke" }, "grade": "m" },
+      { "name": { "en": "Franz Van Horenbeke" }, "grade": "" },
       { "name": { "ja": "山田 航佑" }, "grade": "" }
     ]
   }, {
