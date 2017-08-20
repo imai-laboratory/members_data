@@ -5,6 +5,7 @@
 
 内容は[Webサイト](https://imai-laboratory.github.io/webpage/#/member)から動的に参照されます。
 Jsonフォーマットが不正な場合、Webサイトが表示されなくなります。
+ブラウザのキャッシュが強固なため、反映に時間のかかることがあります。
 
 卒業したメンバは`members.json`から`past_members.json`へ移動してください。
 
