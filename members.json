@@ -28,7 +28,8 @@
         "name": {"ja": "松元 崇裕", "en": "Takahiro Matumoto"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
         "email": "matumoto＠ailab.ics.keio.ac.jp",
-        "img": "matumoto.jpg"
+        "img": "matumoto.jpg",
+        "option": "<a href='https://www.masahiko-osawa.com/'>Home Page</a>"
       },
       {
         "name": {"ja": "大澤 正彦", "en": "Masahiko Osawa"} ,
