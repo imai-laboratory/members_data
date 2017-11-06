@@ -8,11 +8,6 @@
         "email": "michita＠ailab.ics.keio.ac.jp",
         "img": "imai.png",
         "option": "<a href='https://imai-laboratory.github.io/webpage_personal/michita'>Home Page</a>"
-      }, {
-        "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"} ,
-        "grade": {"ja": "博士(工学), 教授", "en": "Researcher"},
-        "img": "hasegawa.jpg",
-        "email": "komei＠ilab.ics.keio.ac.jp"
       }
     ]
   }, {
@@ -46,18 +41,6 @@
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "yamamoto＠ailab.ics.keio.ac.jp",
         "img": "yamamoto.jpg"
-      },
-      {
-        "name": {"en": "Richard Vincent"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "vincent＠ailab.ics.keio.ac.jp",
-        "img": "vincent.jpg"
-      },
-      {
-        "name": {"en": "Constant Damien"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "damien＠ailab.ics.keio.ac.jp",
-        "img": "damien.jpg"
       },
       {
         "name": {"ja": "蓮本 諒介", "en": "Kyosuke Hasumoto"} ,

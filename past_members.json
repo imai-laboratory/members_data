@@ -2,14 +2,17 @@
   {
     "year": 2017,
     "members": [
+      { "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"}, "grade": "Researcher" },
+      { "name": {"en": "Richard Vincent"}, "grade": "m" },
+      { "name": {"en": "Constant Damien"}, "grade": "m" },
       { "name": { "en": "Gomez Lopez Miguel" }, "grade": "m" },
-      { "name": { "en": "Franz Van Horenbeke" }, "grade": "" },
-      { "name": { "ja": "山田 航佑" }, "grade": "" }
+      { "name": { "en": "Franz Van Horenbeke" }, "grade": "EMARO+" },
+      { "name": { "ja": "山田 航佑" }, "grade": "Exchange student" }
     ]
   }, {
     "year": 2016,
     "members": [
-      { "name": { "en": "Francesco Foglino" }, "grade": "m" },
+      { "name": { "en": "Francesco Foglino" }, "grade": "EMARO" },
       { "name": { "ja": "戸塚 隆佑"}, "grade": "m" },
       { "name": { "ja": "樋田 基紘"}, "grade": "m" },
       { "name": { "ja": "小山 大幾"}, "grade": "m" },
@@ -33,9 +36,9 @@
       { "name": { "ja": "金井 祐輔"}, "grade": "d" },
       { "name": { "ja": "大隅 俊宏"}, "grade": "d" },
       { "name": { "en": "Julien Flajollet"}, "grade": "m" },
-      { "name": { "en": "Dorian Goepp"}, "grade": "m" },
-      { "name": { "en": "Chiara Piezzo"}, "grade": "m" },
-      { "name": { "en": "Tam Nguyen"}, "grade": "m" },
+      { "name": { "en": "Dorian Goepp"}, "grade": "EMARO" },
+      { "name": { "en": "Chiara Piezzo"}, "grade": "EMARO" },
+      { "name": { "en": "Tam Nguyen"}, "grade": "Exchange student" },
       { "name": { "ja": "米山 和俊"}, "grade": "m" },
       { "name": { "ja": "久保 政斗"}, "grade": "m" },
       { "name": { "ja": "中谷 慶太"}, "grade": "m" },
