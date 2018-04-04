@@ -146,9 +146,15 @@
         "img": "nowprinting.jpg"
       },
       {
-        "name": {"ja": "陳 宇丹", "en": "Utan chin"} ,
+        "name": {"ja": "陳 宇丹", "en": "Yudan Chen"} ,
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
         "email": "utan＠ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      },
+      {
+        "name": {"ja": "滝口 啓介", "en": "Keisuke Takiguchi"} ,
+        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "email": "takiguchi＠ailab.ics.keio.ac.jp",
         "img": "nowprinting.jpg"
       }
     ]
