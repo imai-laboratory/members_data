@@ -2,6 +2,12 @@
   {
     "year": 2017,
     "members": [
+      { "name": {"ja": "山本 裕貴", "en": "Yuki Yamamoto"}, "grade": "m" },
+      { "name": {"ja": "蓮本 諒介", "en": "Kyosuke Hasumoto"}, "grade": "m" },
+      { "name": {"ja": "馮 建美", "en": "Kenmi Hyo"}, "grade": "m" },
+      { "name": {"ja": "安松 勇紀", "en": "Yuki Yasumatu"}, "grade": "m" },
+      { "name": {"ja": "山内 守", "en": "Mamoru Yamanouchi"}, "grade": "m" },
+      { "name": {"ja": "山田 賢治", "en": "Kenji Yamada"}, "grade": "m" },
       { "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"}, "grade": "Researcher" },
       { "name": {"en": "Richard Vincent"}, "grade": "m" },
       { "name": {"en": "Constant Damien"}, "grade": "m" },
