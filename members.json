@@ -37,6 +37,12 @@
     "role": {"ja": "大学院生 (修士過程)", "en": "M.S. Candidate"},
     "members": [
       {
+        "name": {"ja": "馮 建美", "en": "Kenmi Hyo"} ,
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
+        "email": "hyo＠ailab.ics.keio.ac.jp",
+        "img": "hyo.jpg"
+      },
+      {
         "name": {"en": "Benhnini Tarek"} ,
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "tarek＠ailab.ics.keio.ac.jp",
