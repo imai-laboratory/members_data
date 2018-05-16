@@ -196,6 +196,12 @@
         "grade": {"ja": "学部4年", "en": "Undergraduate"},
         "email": "nagayoshi＠ailab.ics.keio.ac.jp",
         "img": "nagayoshi.jpg"
+      },
+      {
+        "name": {"ja": "鈴木 秀明", "en": "Hideaki Suzuki"} ,
+        "grade": {"ja": "学部4年", "en": "Undergraduate"},
+        "email": "h.suzuki＠ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       }
     ]
   }
