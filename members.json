@@ -37,24 +37,6 @@
     "role": {"ja": "大学院生 (修士過程)", "en": "M.S. Candidate"},
     "members": [
       {
-        "name": {"ja": "馮 建美", "en": "Kenmi Hyo"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "hyo＠ailab.ics.keio.ac.jp",
-        "img": "hyo.jpg"
-      },
-      {
-        "name": {"en": "Benhnini Tarek"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "tarek＠ailab.ics.keio.ac.jp",
-        "img": "tarek.jpg"
-      },
-      {
-        "name": {"en": "Plouviez Quentin"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "quentin＠ailab.ics.keio.ac.jp",
-        "img": "quentin.jpg"
-      },
-      {
         "name": {"ja": "大藤 聖菜", "en": "Kiyona Oto"} ,
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "oto＠ailab.ics.keio.ac.jp",
@@ -126,12 +108,6 @@
         "email": "seno＠ailab.ics.keio.ac.jp",
         "img": "seno.jpg",
         "option": "<a href='https://wbawakate.jp/member/seno-takuma'>Home Page</a>"
-      },
-      {
-        "name": {"ja": "中川 愛理", "en": "Airi Nakagawa"} ,
-        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
-        "email": "nakagawa＠ailab.ics.keio.ac.jp",
-        "img": "nakagawa.jpg"
       },
       {
         "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"} ,
