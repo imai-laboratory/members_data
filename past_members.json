@@ -2,126 +2,124 @@
   {
     "year": 2018,
     "members": [
-      { "name": { "en": "Natalia Calvo Barajas" }, "grade": "EMARO" },
-      { "name": { "en": "Benhnini Tarek" }, "grade": "m" },
-      { "name": { "en": "Plouviez Quentin" }, "grade": "m" },
-      { "name": { "ja": "中川 愛理"}, "grade": "b" },
-      { "name": { "ja": "馮 建美"}, "grade": "b" }
+      { "name": { "en": "Natalia Calvo Barajas" }, "grade": "" }
     ]
   },
   {
     "year": 2017,
     "members": [
-      { "name": {"ja": "山本 裕貴", "en": "Yuki Yamamoto"}, "grade": "m" },
-      { "name": {"ja": "蓮本 諒介", "en": "Kyosuke Hasumoto"}, "grade": "m" },
-      { "name": {"ja": "安松 勇紀", "en": "Yuki Yasumatu"}, "grade": "m" },
-      { "name": {"ja": "山内 守", "en": "Mamoru Yamanouchi"}, "grade": "m" },
-      { "name": {"ja": "山田 賢治", "en": "Kenji Yamada"}, "grade": "m" },
-      { "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"}, "grade": "Researcher" },
-      { "name": {"en": "Richard Vincent"}, "grade": "m" },
-      { "name": {"en": "Constant Damien"}, "grade": "m" },
-      { "name": { "en": "Gomez Lopez Miguel" }, "grade": "m" },
-      { "name": { "en": "Franz Van Horenbeke" }, "grade": "EMARO+" },
-      { "name": { "ja": "山田 航佑" }, "grade": "Exchange student" }
+      { "name": { "ja": "中川 愛理"}, "grade": "" },
+      { "name": { "en": "Franz Van Horenbeke" }, "grade": "" },
+      { "name": { "ja": "山田 航佑" }, "grade": "" }
     ]
   }, {
     "year": 2016,
     "members": [
-      { "name": { "en": "Francesco Foglino" }, "grade": "EMARO" },
-      { "name": { "ja": "戸塚 隆佑"}, "grade": "m" },
-      { "name": { "ja": "樋田 基紘"}, "grade": "m" },
-      { "name": { "ja": "小山 大幾"}, "grade": "m" },
-      { "name": { "ja": "古谷 誠悟"}, "grade": "m" }
+      { "name": { "en": "Benhnini Tarek" }, "grade": "" },
+      { "name": { "en": "Plouviez Quentin" }, "grade": "" },
+      { "name": { "en": "Francesco Foglino" }, "grade": "" }
     ]
   }, {
     "year": 2015,
     "members": [
-      { "name": { "ja": "尾形 正泰"}, "grade": "d" },
-      { "name": { "ja": "岡崎 裕文"}, "grade": "m" },
-      { "name": { "ja": "高橋 成明"}, "grade": "m" },
-      { "name": { "ja": "宮崎 庸平"}, "grade": "m" },
-      { "name": { "ja": "渡邉 哲"}, "grade": "m" },
-      { "name": { "ja": "川端 泰史"}, "grade": "b" },
-      { "name": { "ja": "堀元 見"}, "grade": "b" },
-      { "name": { "ja": "末松 久"}, "grade": "b" }
+      { "name": {"en": "Richard Vincent"}, "grade": "" },
+      { "name": {"en": "Constant Damien"}, "grade": "" },
+      { "name": { "en": "Gomez Lopez Miguel" }, "grade": "" },
+      { "name": {"ja": "蓮本 諒介", "en": "Kyosuke Hasumoto"}, "grade": "" },
+      { "name": {"ja": "安松 勇紀", "en": "Yuki Yasumatu"}, "grade": "" },
+      { "name": {"ja": "山内 守", "en": "Mamoru Yamanouchi"}, "grade": "" },
+      { "name": { "ja": "川端 泰史"}, "grade": "" },
+      { "name": { "ja": "堀元 見"}, "grade": "" },
+      { "name": { "ja": "末松 久"}, "grade": "" },
+      { "name": { "ja": "馮 建美"}, "grade": "" }
     ]
   }, {
     "year": 2014,
     "members": [
-      { "name": { "ja": "金井 祐輔"}, "grade": "d" },
-      { "name": { "ja": "大隅 俊宏"}, "grade": "d" },
-      { "name": { "en": "Julien Flajollet"}, "grade": "m" },
-      { "name": { "en": "Dorian Goepp"}, "grade": "EMARO" },
-      { "name": { "en": "Chiara Piezzo"}, "grade": "EMARO" },
-      { "name": { "en": "Tam Nguyen"}, "grade": "Exchange student" },
-      { "name": { "ja": "米山 和俊"}, "grade": "m" },
-      { "name": { "ja": "久保 政斗"}, "grade": "m" },
-      { "name": { "ja": "中谷 慶太"}, "grade": "m" },
-      { "name": { "ja": "高澤 宏一"}, "grade": "m" },
-      { "name": { "ja": "小池 京太郎"}, "grade": "m" },
-      { "name": { "ja": "河村 紗也子"}, "grade": "m" },
-      { "name": { "ja": "増井 建斗"}, "grade": "b" }
+      { "name": {"ja": "長谷川 孔明", "en": "Komei Hasegawa"}, "grade": "" },
+      { "name": { "en": "Dorian Goepp"}, "grade": "" },
+      { "name": { "en": "Chiara Piezzo"}, "grade": "" },
+      { "name": { "en": "Tam Nguyen"}, "grade": "" },
+      { "name": { "ja": "戸塚 隆佑"}, "grade": "" },
+      { "name": { "ja": "樋田 基紘"}, "grade": "" },
+      { "name": { "ja": "小山 大幾"}, "grade": "" },
+      { "name": { "ja": "古谷 誠悟"}, "grade": "" },
+      { "name": { "ja": "増井 建斗"}, "grade": "" },
+      { "name": {"ja": "山田 賢治", "en": "Kenji Yamada"}, "grade": "" },
+      { "name": {"ja": "山本 裕貴", "en": "Yuki Yamamoto"}, "grade": "" }
     ]
   }, {
     "year": 2013,
     "members": [
-      { "name": { "en": "Mahisorn Wongphati"}, "grade": "d" },
-      { "name": { "ja": "鳩 康彦"}, "grade": "d" },
-      { "name": { "en": "Christoffer Larsson"}, "grade": "m" },
-      { "name": { "ja": "伊庭 甫"}, "grade": "m" },
-      { "name": { "ja": "大西 樹"}, "grade": "m" },
-      { "name": { "ja": "飛田 国星"}, "grade": "m" },
-      { "name": { "ja": "三上 朝也"}, "grade": "m" },
-      { "name": { "ja": "寺村 涼"}, "grade": "m" },
-      { "name": { "ja": "速水 昭"}, "grade": "m" },
-      { "name": { "ja": "鈴木 貢司"}, "grade": "b" }
+      { "name": { "ja": "岡崎 裕文"}, "grade": "" },
+      { "name": { "ja": "高橋 成明"}, "grade": "" },
+      { "name": { "ja": "宮崎 庸平"}, "grade": "" },
+      { "name": { "ja": "渡邉 哲"}, "grade": "" },
+      { "name": { "ja": "鈴木 貢司"}, "grade": "" }
     ]
   }, {
     "year": 2012,
     "members": [
-      { "name": { "ja": "山口 司"}, "grade": "m" },
-      { "name": { "ja": "植田 俊輔"}, "grade": "m" },
-      { "name": { "ja": "柏原 忠和"}, "grade": "m" },
-      { "name": { "ja": "北出 卓也"}, "grade": "m" },
-      { "name": { "ja": "斉藤 緑"}, "grade": "m" },
-      { "name": { "ja": "松田 有史"}, "grade": "m" },
-      { "name": { "ja": "山崎 康司"}, "grade": "b" }
+      { "name": { "en": "Julien Flajollet"}, "grade": "" },
+      { "name": { "ja": "米山 和俊"}, "grade": "" },
+      { "name": { "ja": "久保 政斗"}, "grade": "" },
+      { "name": { "ja": "中谷 慶太"}, "grade": "" },
+      { "name": { "ja": "高澤 宏一"}, "grade": "" },
+      { "name": { "ja": "小池 京太郎"}, "grade": "" },
+      { "name": { "ja": "河村 紗也子"}, "grade": "" },
+      { "name": { "ja": "山崎 康司"}, "grade": "" }
     ]
   }, {
     "year": 2011,
     "members": [
-      { "name": { "ja": "志和 敏之"}, "grade": "d" },
-      { "name": { "ja": "谷口 祐司"}, "grade": "m" },
-      { "name": { "ja": "松元 崇裕"}, "grade": "m" },
-      { "name": { "en": "Thibault Voisin"}, "grade": "m" },
-      { "name": { "ja": "大田 夏生"}, "grade": "b" },
-      { "name": { "ja": "竹下 幸輝"}, "grade": "b" },
-      { "name": { "ja": "加賀美 崇紘"}, "grade": "b" }
+      { "name": { "en": "Mahisorn Wongphati"}, "grade": "" },
+      { "name": { "en": "Christoffer Larsson"}, "grade": "" },
+      { "name": { "ja": "伊庭 甫"}, "grade": "" },
+      { "name": { "ja": "大西 樹"}, "grade": "" },
+      { "name": { "ja": "飛田 国星"}, "grade": "" },
+      { "name": { "ja": "三上 朝也"}, "grade": "" },
+      { "name": { "ja": "寺村 涼"}, "grade": "" },
+      { "name": { "ja": "速水 昭"}, "grade": "" },
+      { "name": { "ja": "大田 夏生"}, "grade": "" },
+      { "name": { "ja": "竹下 幸輝"}, "grade": "" },
+      { "name": { "ja": "加賀美 崇紘"}, "grade": "" }
     ]
   }, {
     "year": 2010,
     "members": [
-      { "name": { "en": "Antoine Chaussin"}, "grade": "m" },
-      { "name": { "ja": "江口 奈緒記"}, "grade": "m" },
-      { "name": { "ja": "大隅 俊宏"}, "grade": "m" },
-      { "name": { "ja": "門田 圭至郎"}, "grade": "m" },
-      { "name": { "ja": "桑山 裕基"}, "grade": "m" },
-      { "name": { "ja": "阪田 雅人"}, "grade": "m" },
-      { "name": { "ja": "藤本 健太"}, "grade": "m" },
-      { "name": { "ja": "渡邊 大"}, "grade": "b" }
+      { "name": { "ja": "植田 俊輔"}, "grade": "" },
+      { "name": { "ja": "尾形 正泰"}, "grade": "" },
+      { "name": { "ja": "柏原 忠和"}, "grade": "" },
+      { "name": { "ja": "北出 卓也"}, "grade": "" },
+      { "name": { "ja": "斉藤 緑"}, "grade": "" },
+      { "name": { "ja": "松田 有史"}, "grade": "" },
+      { "name": { "ja": "渡邊 大"}, "grade": "" }
     ]
   }, {
     "year": 2009,
     "members": [
+      { "name": { "en": "Thibault Voisin"}, "grade": "" },
       { "name": { "ja": "武石 由香里 (たけいし ゆかり)"}, "grade": "" },
-      { "name": { "ja": "日紫喜 愛菜 (ひしき あいな)"}, "grade": "" }
+      { "name": { "ja": "日紫喜 愛菜 (ひしき あいな)"}, "grade": "" },
+      { "name": { "ja": "金井 祐輔"}, "grade": "" },
+      { "name": { "ja": "谷口 祐司"}, "grade": "" },
+      { "name": { "ja": "松元 崇裕"}, "grade": "" },
+      { "name": { "ja": "山口 司"}, "grade": "" }
     ]
   }, {
     "year": 2008,
     "members": [
+      { "name": { "en": "Antoine Chaussin"}, "grade": "" },
       { "name": { "ja": "郭 斌 (びんご)"}, "grade": "" },
       { "name": { "ja": "小坂谷 孟秀 (こさかや まお)"}, "grade": "" },
-      { "name": { "ja": "米澤 征志 (よねざわ まさし)"}, "grade": "" }
+      { "name": { "ja": "米澤 征志 (よねざわ まさし)"}, "grade": "" },
+      { "name": { "ja": "江口 奈緒記"}, "grade": "" },
+      { "name": { "ja": "大隅 俊宏"}, "grade": "" },
+      { "name": { "ja": "大隅 俊宏"}, "grade": "" },
+      { "name": { "ja": "門田 圭至郎"}, "grade": "" },
+      { "name": { "ja": "桑山 裕基"}, "grade": "" },
+      { "name": { "ja": "阪田 雅人"}, "grade": "" },
+      { "name": { "ja": "藤本 健太"}, "grade": "" }
     ]
   }, {
     "year": 2007,
@@ -130,6 +128,7 @@
       { "name": { "ja": "鮫島 萌 (さめしま もえ)"}, "grade": "" },
       { "name": { "ja": "野田 誠人 (のだ まさと)"}, "grade": "" },
       { "name": { "ja": "橋田 尚幸 (はしだ なおゆき)"}, "grade": "" },
+      { "name": { "ja": "鳩 康彦"}, "grade": "" },
       { "name": { "ja": "藤村 亮太 (ふじむら りょうた)"}, "grade": "" }
     ]
   }, {
@@ -150,6 +149,7 @@
     "members": [
       { "name": { "ja": "神田 武 (かんだ たけし)"}, "grade": "" },
       { "name": { "ja": "志田 憲一 (しだ けんいち)"}, "grade": "" },
+      { "name": { "ja": "志和 敏之"}, "grade": "" },
       { "name": { "ja": "古山 真之 (ふるやま まさゆき)"}, "grade": "" },
       { "name": { "ja": "山本 友紀子 (やまもと ゆきこ)"}, "grade": "" },
       { "name": { "ja": "モランド エリック"}, "grade": "" }
