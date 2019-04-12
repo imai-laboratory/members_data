@@ -3,11 +3,6 @@
     "year": 2018,
     "members": [
       { "name": { "en": "Natalia Calvo Barajas" }, "grade": "" },
-      { "name": {"ja": "大藤 聖菜", "en": "Kiyona Oto"}, "grade": "" },
-      { "name": {"ja": "北川 遼", "en": "Ryo Kitagawa"}, "grade": "" },
-      { "name": {"ja": "澤田 志織", "en": "Shiori Sawada"}, "grade": "" },
-      { "name": {"ja": "豊永 哲士", "en": "Tetsushi Toyonaga"}, "grade": "" },
-      { "name": {"ja": "吉岡 駿", "en": "Shun Yoshioka"}, "grade": "" },
       { "name": {"ja": "石川 敬規", "en": "Toshiki Ishikawa"}, "grade": "" },
       { "name": {"ja": "芹澤 桃子", "en": "Momoko Serizawa"}, "grade": "" },
       { "name": {"ja": "鈴木 秀明", "en": "Hideaki Suzuki"}, "grade": "" }
@@ -25,7 +20,12 @@
     "members": [
       { "name": { "en": "Benhnini Tarek" }, "grade": "" },
       { "name": { "en": "Plouviez Quentin" }, "grade": "" },
-      { "name": { "en": "Francesco Foglino" }, "grade": "" }
+      { "name": { "en": "Francesco Foglino" }, "grade": "" },
+      { "name": {"ja": "大藤 聖菜", "en": "Kiyona Oto"}, "grade": "" },
+      { "name": {"ja": "北川 遼", "en": "Ryo Kitagawa"}, "grade": "" },
+      { "name": {"ja": "澤田 志織", "en": "Shiori Sawada"}, "grade": "" },
+      { "name": {"ja": "豊永 哲士", "en": "Tetsushi Toyonaga"}, "grade": "" },
+      { "name": {"ja": "吉岡 駿", "en": "Shun Yoshioka"}, "grade": "" }
     ]
   }, {
     "year": 2015,
