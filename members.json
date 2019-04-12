@@ -8,6 +8,13 @@
         "email": "michita＠ailab.ics.keio.ac.jp",
         "img": "imai.png",
         "option": "<a href='https://imai-laboratory.github.io/webpage_personal/michita'>Home Page</a>"
+      },
+      {
+        "name": {"ja": "木本充彦", "en": "Mitsuhiko Kimoto"},
+        "grade": {"ja": "博士(工学), 研究員", "en": "Ph. D. Researcher"},
+        "email": "kimoto@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg",
+        "option": "<a href='https://mkimoto.jp'>Home Page</a>"
       }
     ]
   }, {
