@@ -131,6 +131,36 @@
   }, {
     "role": {"ja": "学部生", "en": "Undergraduate"},
     "members": [
+      {
+        "name": {"ja": "内海 佑麻", "en": "Yuma Uchiumi"},
+        "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
+        "email": "uchiumi@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      },
+      {
+        "name": {"ja": "大竹 七勢", "en": "Nanase Otake"},
+        "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
+        "email": "otake@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      },
+      {
+        "name": {"ja": "大塚 洋平", "en": "Yohei Otsuka"},
+        "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
+        "email": "otsuka@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      },
+      {
+        "name": {"ja": "金重 有哉", "en": "Yuya Kaneshige"},
+        "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
+        "email": "kaneshige@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      },
+      {
+        "name": {"ja": "吉野 哲平", "en": "Teppei Yoshino"},
+        "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
+        "email": "yoshino@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      }
     ]
   }
 ]
