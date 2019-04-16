@@ -18,7 +18,7 @@
       }
     ]
   }, {
-    "role": {"ja": "大学院生 (博士過程)", "en": "Ph.D. Candidate"},
+    "role": {"ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate"},
     "members": [
       {
         "name": {"ja": "岨野 太一", "en": "Taichi Sono"} ,
@@ -53,7 +53,7 @@
       }
     ]
   }, {
-    "role": {"ja": "大学院生 (修士過程)", "en": "M.S. Candidate"},
+    "role": {"ja": "大学院生 (修士課程)", "en": "M.S. Candidate"},
     "members": [
       {
         "name": {"en": "Briac Le Ray"} ,
