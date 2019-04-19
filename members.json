@@ -22,32 +22,32 @@
     "members": [
       {
         "name": {"ja": "岨野 太一", "en": "Taichi Sono"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "sono＠ailab.ics.keio.ac.jp",
         "img": "sono.jpg"
       },
       {
         "name": {"ja": "松元 崇裕", "en": "Takahiro Matumoto"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "matumoto＠ailab.ics.keio.ac.jp",
         "img": "matumoto.jpg"
       },
       {
         "name": {"ja": "大澤 正彦", "en": "Masahiko Osawa"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "mosawa＠ailab.ics.keio.ac.jp",
         "img": "mosawa.jpg",
         "option": "<a href='https://www.masahiko-osawa.com/'>Home Page</a>"
       },
       {
         "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "takimoto＠ailab.ics.keio.ac.jp",
         "img": "takimoto.jpg"
       },
       {
         "name": {"ja": "福地 庸介", "en": "Yosuke Fukuchi"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph. D. Candidate"},
+        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "fukuchi＠ailab.ics.keio.ac.jp",
         "img": "fukuchi.jpg"
       }
