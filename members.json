@@ -4,17 +4,17 @@
     "members": [
       {
         "name": {"ja": "今井 倫太", "en": "Michita Imai"} ,
-        "grade": {"ja": "博士(工学), 教授", "en": "Ph. D. Professor"},
+        "grade": {"ja": "博士(工学), 教授", "en": "Ph.D., Professor"},
         "email": "michita＠ailab.ics.keio.ac.jp",
         "img": "imai.png",
         "option": "<a href='https://imai-laboratory.github.io/webpage_personal/michita'>Home Page</a>"
       },
       {
         "name": {"ja": "木本充彦", "en": "Mitsuhiko Kimoto"},
-        "grade": {"ja": "日本学術振興会特別研究員PD", "en": "JSPS Research Fellow"},
+        "grade": {"ja": "博士(工学), 日本学術振興会特別研究員PD", "en": "Ph.D., JSPS Research Fellow"},
         "email": "kimoto@ailab.ics.keio.ac.jp",
         "img": "nowprinting.jpg",
-        "option": "<a href='https://mkimoto.jp'>Home Page</a>"
+        "option": "<a href='https://www.mkimoto.jp'>Home Page</a>"
       }
     ]
   }, {
