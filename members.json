@@ -143,6 +143,7 @@
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
         "email": "uchiumi@ailab.ics.keio.ac.jp",
         "img": "nowprinting.jpg"
+        "option": "<a href='https://yumauchiumi.github.io'>Home Page</a>"
       },
       {
         "name": {"ja": "大竹 七勢", "en": "Nanase Otake"},
