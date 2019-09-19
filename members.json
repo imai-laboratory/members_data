@@ -50,6 +50,13 @@
         "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "fukuchi＠ailab.ics.keio.ac.jp",
         "img": "fukuchi.jpg"
+      },
+      {
+        "name": {"ja": "妹尾 卓磨", "en": "Takuma Seno"} ,
+        "grade": {"ja": "博士課程1年", "en": "Ph.D. Candidate"},
+        "email": "seno＠ailab.ics.keio.ac.jp",
+        "img": "seno.jpg",
+        "option": "<a href='https://takuseno.github.io'>Home Page</a>"
       }
     ]
   }, {
@@ -78,13 +85,6 @@
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "shoya＠ailab.ics.keio.ac.jp",
         "img": "matsumori.jpg"
-      },
-      {
-        "name": {"ja": "妹尾 卓磨", "en": "Takuma Seno"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "seno＠ailab.ics.keio.ac.jp",
-        "img": "seno.jpg",
-        "option": "<a href='https://takuseno.github.io'>Home Page</a>"
       },
       {
         "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"} ,
