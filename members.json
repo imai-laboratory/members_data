@@ -27,12 +27,6 @@
         "img": "sono.jpg"
       },
       {
-        "name": {"ja": "松元 崇裕", "en": "Takahiro Matumoto"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
-        "email": "matumoto＠ailab.ics.keio.ac.jp",
-        "img": "matumoto.jpg"
-      },
-      {
         "name": {"ja": "大澤 正彦", "en": "Masahiko Osawa"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "mosawa＠ailab.ics.keio.ac.jp",
