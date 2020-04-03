@@ -69,22 +69,10 @@
     "role": {"ja": "大学院生 (修士課程)", "en": "M.S. Candidate"},
     "members": [
       {
-        "name": {"ja": "秋田 祥平", "en": "Shohei Akita"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "akita＠ailab.ics.keio.ac.jp",
-        "img": "akita.jpg"
-      },
-      {
         "name": {"ja": "陳 宇丹", "en": "Yudan Chen"} ,
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "utan＠ailab.ics.keio.ac.jp",
         "img": "utan.jpg"
-      },
-      {
-        "name": {"ja": "滝口 啓介", "en": "Keisuke Takiguchi"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "takiguchi＠ailab.ics.keio.ac.jp",
-        "img": "takiguchi.jpg"
       },
       {
         "name": {"ja": "阿部 佑樹", "en": "Yuki Abe"} ,
