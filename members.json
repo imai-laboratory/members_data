@@ -143,7 +143,8 @@
       {
         "name": {"ja": "本郷 望実", "en": "Nozomi Hongo"},
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
-        "email": "hongo@ailab.ics.keio.ac.jp"
+        "email": "hongo@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       }
     ]
   }, {
@@ -152,27 +153,32 @@
       {
         "name": {"ja": "郷地 瞳", "en": "Hitomi Gouchi"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "gouchi@ailab.ics.keio.ac.jp"
+        "email": "gouchi@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       },
       {
         "name": {"ja": "金沢 壮真", "en": "Soma Kanazawa"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "kanazawa@ailab.ics.keio.ac.jp"
+        "email": "kanazawa@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       },
       {
         "name": {"ja": "森本 くるみ", "en": "Kurumi Morimoto"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "morimoto@ailab.ics.keio.ac.jp"
+        "email": "morimoto@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       },
       {
         "name": {"ja": "柴田 遼一", "en": "Ryoichi Shibata"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "shibata@ailab.ics.keio.ac.jp"
+        "email": "shibata@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       },
       {
         "name": {"ja": "渡邊 悠太", "en": "Yuta Watanabe"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "watanabe@ailab.ics.keio.ac.jp"
+        "email": "watanabe@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       }
     ]
   }
