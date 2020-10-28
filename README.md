@@ -3,7 +3,7 @@
 ## 研究室メンバーへ
 各自内容を適宜更新してください。
 
-内容は[Webサイト](https://imai-laboratory.github.io/webpage/#/member)から動的に参照されます。
+内容は[Webサイト](https://www.ailab.ics.keio.ac.jp/member)から動的に参照されます。
 Jsonフォーマットが不正な場合、Webサイトが表示されなくなります。
 ブラウザのキャッシュが強固なため、反映に時間のかかることがあります。
 
