@@ -2,14 +2,20 @@
   {
     "year": 2020,
     "members": [
-      { "name": {"ja": "滝本 佑介"}, "grade": "" },
-      { "name": {"ja": "福地 庸介"}, "grade": "" },
-      { "name": {"ja": "松森 匠哉"}, "grade": "" },
-      { "name": {"ja": "奥岡 耕平"}, "grade": "" },
-      { "name": {"ja": "陳 宇丹"}, "grade": "" },
-      { "name": {"ja": "妹尾 卓磨"}, "grade": "" },
+      { "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"}, "grade": "" },
+      { "name": {"ja": "福地 庸介", "en": "Yosuke Fukuchi"}, "grade": "" },
+      { "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"}, "grade": "" },
+      { "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"}, "grade": "" },
+      { "name": {"ja": "陳 宇丹", "en": "Utan Chen"}, "grade": "" },
+      { "name": {"ja": "妹尾 卓磨", "en": "Takuma Seno"}, "grade": "" },
+      
+      { "name": {"ja": "阿部 佑樹", "en": "Yuki Abe"}, "grade": "" },
+      { "name": {"ja": "里形 理興", "en": "Riki Satogata"}, "grade": "" },
+      { "name": {"ja": "榎波 晃一", "en": "Koichi Enami"}, "grade": "" },
+      { "name": {"ja": "永吉 秋平", "en": "Shuhei Nagayoshi"}, "grade": "" },
 
-      { "name": {"ja": "新行内 浩輔", "en": "Kosuke Shingyouchi"}, "grade": "" },
+      { "name": {"ja": "新行内 浩輔", "en": "Kosuke Shingyouchi"}, "grade": "" },  
+      
       { "name": {"en": "Nathan Boyer"}, "grade": "" },
       { "name": {"en": "David Felices"}, "grade": "" },
       { "name": {"ja": "内海 佑麻", "en": "Yuma Uchiumi"}, "grade": "" },
@@ -22,7 +28,7 @@
       { "name": {"ja": "郷地 瞳", "en": "Hitomi Gouchi"}, "grade": "" },
       { "name": {"ja": "柴田 遼一", "en": "Ryouichi Shibata"}, "grade": "" },
       { "name": {"ja": "森本 くるみ", "en": "Kurumi Morimoto"}, "grade": "" },
-      { "name": {"ja": "渡邊 悠太", "en": "Yuuta Watanabe"}, "grade": "" }
+      { "name": {"ja": "渡邊 悠太", "en": "Yuta Watanabe"}, "grade": "" }
       
     ]
   },
