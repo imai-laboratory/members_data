@@ -2,6 +2,8 @@
   {
     "year": 2020,
     "members": [
+      { "name": {"ja": "木本 充彦", "en": "Mitsuhiko Kimoto"},"grade": ""},
+      { "name": {"ja": "前川 知行", "en": "Maekawa Tomoyuki"},"grade": ""},
       { "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"}, "grade": "" },
       { "name": {"ja": "福地 庸介", "en": "Yosuke Fukuchi"}, "grade": "" },
       { "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"}, "grade": "" },
