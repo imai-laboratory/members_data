@@ -3,7 +3,8 @@
     "year": 2020,
     "members": [
       { "name": {"ja": "木本 充彦", "en": "Mitsuhiko Kimoto"},"grade": ""},
-      { "name": {"ja": "前川 知行", "en": "Maekawa Tomoyuki"},"grade": ""},
+      { "name": {"ja": "前川 知行", "en": "Tomoyuki Maekawa"},"grade": ""},
+      { "name": {"ja": "岨野 太一", "en": "Taichi Sono"},"grade": ""},
       { "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"}, "grade": "" },
       { "name": {"ja": "福地 庸介", "en": "Yosuke Fukuchi"}, "grade": "" },
       { "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"}, "grade": "" },
@@ -25,6 +26,7 @@
       { "name": {"ja": "大塚 洋平", "en": "Yohei Otsuka"}, "grade": "" },
       { "name": {"ja": "金重 有哉", "en": "Yuya Kaneshige"}, "grade": "" },
       { "name": {"ja": "吉野 哲平", "en": "Teppei Yoshino"}, "grade": "" },
+      { "name": {"ja": "本郷 望実", "en": "Nozomi Hongo"}, "grade": "" },
       
       { "name": {"ja": "金沢 壮真", "en": "Soma Kanazawa"}, "grade": "" },
       { "name": {"ja": "郷地 瞳", "en": "Hitomi Gouchi"}, "grade": "" },
