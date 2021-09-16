@@ -11,7 +11,7 @@
       },
       {
         "name": {"ja": "木本 充彦", "en": "Mitsuhiko Kimoto"},
-        "grade": {"ja": "博士(工学),<br>日本学術振興会特別研究員PD", "en": "Ph.D.,<br>JSPS Research Fellow (PD)"},
+        "grade": {"ja": "博士(工学), 日本学術振興会特別研究員PD", "en": "Ph.D., JSPS Research Fellow (PD)"},
         "email": "kimoto@ailab.ics.keio.ac.jp",
         "img": "kimoto.jpg",
         "option": "<a href='https://www.mkimoto.jp'>Home Page</a>"
@@ -47,7 +47,7 @@
       },
       {
         "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"} ,
-        "grade": {"ja": "博士課程2年,<br>日本学術振興会特別研究員DC", "en": "Ph.D. Candidate,<br>JSPS Research Fellow (DC)"},
+        "grade": {"ja": "博士課程2年, 日本学術振興会特別研究員DC", "en": "Ph.D. Candidate, JSPS Research Fellow (DC)"},
         "email": "shoya＠ailab.ics.keio.ac.jp",
         "img": "matsumori.jpg"
       },
