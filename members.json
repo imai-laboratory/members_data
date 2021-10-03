@@ -68,18 +68,6 @@
         "img": "utan.jpg"
       },
       {
-        "name": {"en": "Nathan Boyer"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "nathan.boyer＠ailab.ics.keio.ac.jp",
-        "img": "nathan.jpg"
-      },
-      {
-        "name": {"en": "David Felices"} ,
-        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
-        "email": "david.felices＠ailab.ics.keio.ac.jp",
-        "img": "david.jpeg"
-      },
-      {
         "name": {"ja": "内海 佑麻", "en": "Yuma Uchiumi"},
         "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "uchiumi@ailab.ics.keio.ac.jp",
