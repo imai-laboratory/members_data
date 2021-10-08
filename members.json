@@ -121,6 +121,12 @@
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
         "email": "watanabe@ailab.ics.keio.ac.jp",
         "img": "watanabe.jpg"
+      },
+      {
+        "name": {"ja": "神部理咲", "en": "Risa Kambe"},
+        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "email": "kambe@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
       }
     ]
   }, {
