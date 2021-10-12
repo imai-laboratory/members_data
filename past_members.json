@@ -210,6 +210,13 @@
 		"year": 2019,
 		"members": [
 			{
+				"name": {
+					"ja": "木本 充彦",
+					"en": "Mitsuhiko Kimoto"
+				},
+				"grade": ""
+			},
+			{
 				"grade": "",
 				"name": {
 					"ja": "岨野太一"
