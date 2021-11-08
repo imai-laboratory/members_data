@@ -49,7 +49,8 @@
         "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"} ,
         "grade": {"ja": "博士課程2年, 日本学術振興会特別研究員DC", "en": "Ph.D. Candidate, JSPS Research Fellow (DC)"},
         "email": "shoya＠ailab.ics.keio.ac.jp",
-        "img": "matsumori.jpg"
+        "img": "matsumori.jpg",
+        "option": "<a href='https://www.shoya.me'>Home Page</a>"
       },
       {
         "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"} ,
