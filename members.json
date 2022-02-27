@@ -30,7 +30,8 @@
         "name": {"ja": "福地 庸介", "en": "Yosuke Fukuchi"} ,
         "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
         "email": "fukuchi＠ailab.ics.keio.ac.jp",
-        "img": "fukuchi.jpg"
+        "img": "fukuchi.jpg",
+        "option": "<a href='https://fuku5.github.io/'>Home Page</a>"
       },
       {
         "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"} ,
