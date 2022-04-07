@@ -10,13 +10,6 @@
         "option": "<a href='https://imai-laboratory.github.io/webpage_personal/michita'>Home Page</a>"
       },
       {
-        "name": {"ja": "木本 充彦", "en": "Mitsuhiko Kimoto"},
-        "grade": {"ja": "博士(工学), 日本学術振興会特別研究員PD", "en": "Ph.D., JSPS Research Fellow (PD)"},
-        "email": "kimoto@ailab.ics.keio.ac.jp",
-        "img": "kimoto.jpg",
-        "option": "<a href='https://www.mkimoto.jp'>Home Page</a>"
-      },
-      {
         "name": {"ja": "前川 知行", "en": "Tomoyuki Maekawa"},
         "grade": {"ja": "研究員", "en": "Researcher"},
         "email": "maekawa@ailab.ics.keio.ac.jp",
@@ -105,7 +98,7 @@
         "img": "hasegawa.jpg"
       },
       {
-        "name": {"ja": "佐久間　唯太", "en": "Yuita Sakuma"},
+        "name": {"ja": "佐久間 唯太", "en": "Yuita Sakuma"},
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
         "email": "sakuma@ailab.ics.keio.ac.jp",
         "img": "sakuma.jpg"
@@ -127,16 +120,16 @@
         "img": "nowprinting.jpg"
       },
       {
-        "name": {"ja": "赤堀 翔太", "en": "Shota Akabori"},
+        "name": {"ja": "赤堀 翔太", "en": "Shota Akahori"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
-        "email": "akabori@ailab.ics.keio.ac.jp",
-        "img": "nowprinting.jpg"
+        "email": "akahori@ailab.ics.keio.ac.jp",
+        "img": "akahori.jpg"
       },
       {
         "name": {"ja": "弦本 賢人", "en": "Kento Tsurumoto"},
         "grade": {"ja": "学士課程4年", "en": "Undergraduate"},
         "email": "tsurumoto@ailab.ics.keio.ac.jp",
-        "img": "nowprinting.jpg"
+        "img": "tsurumoto.jpg"
       },
       {
         "name": {"ja": "河原 彩乃", "en": "Ayano Kawara"},
