@@ -20,28 +20,22 @@
     "role": {"ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate"},
     "members": [
       {
-        "name": {"ja": "滝本 佑介", "en": "Yusuke Takimoto"} ,
-        "grade": {"ja": "後期博士課程", "en": "Ph.D. Candidate"},
-        "email": "takimoto＠ailab.ics.keio.ac.jp",
-        "img": "takimoto.jpg"
-      },
-      {
         "name": {"ja": "妹尾 卓磨", "en": "Takuma Seno"} ,
-        "grade": {"ja": "博士課程2年", "en": "Ph.D. Candidate"},
+        "grade": {"ja": "博士課程3年", "en": "Ph.D. Candidate"},
         "email": "seno＠ailab.ics.keio.ac.jp",
         "img": "seno.jpg",
         "option": "<a href='https://takuseno.github.io'>Home Page</a>"
       },
       {
         "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"} ,
-        "grade": {"ja": "博士課程2年, 日本学術振興会特別研究員DC", "en": "Ph.D. Candidate, JSPS Research Fellow (DC)"},
+        "grade": {"ja": "博士課程3年, 日本学術振興会特別研究員DC", "en": "Ph.D. Candidate, JSPS Research Fellow (DC)"},
         "email": "shoya＠ailab.ics.keio.ac.jp",
         "img": "matsumori.jpg",
         "option": "<a href='https://www.shoya.me'>Home Page</a>"
       },
       {
         "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"} ,
-        "grade": {"ja": "博士課程2年", "en": "Ph.D. Candidate"},
+        "grade": {"ja": "博士課程3年, 助教(有期)", "en": "Ph.D. Candidate"},
         "email": "okuoka＠ailab.ics.keio.ac.jp",
         "img": "okuoka.jpg"
       }
@@ -51,19 +45,19 @@
     "members": [
       {
         "name": {"ja": "金沢 壮真", "en": "Soma Kanazawa"},
-        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "kanazawa@ailab.ics.keio.ac.jp",
         "img": "kanazawa.jpg"
       },
       {
         "name": {"ja": "柴田 遼一", "en": "Ryoichi Shibata"},
-        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "shibata@ailab.ics.keio.ac.jp",
         "img": "shibata.jpg"
       },
       {
         "name": {"ja": "渡邊 悠太", "en": "Yuta Watanabe"},
-        "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
+        "grade": {"ja": "修士課程2年", "en": "M.S. Candidate"},
         "email": "watanabe@ailab.ics.keio.ac.jp",
         "img": "watanabe.jpg"
       },
