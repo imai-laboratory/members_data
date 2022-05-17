@@ -18,7 +18,7 @@
     ]
   },  
   {
-    "role": {"ja": "客員", "en": "Staff"},
+    "role": {"ja": "客員", "en": "Visiting Staff"},
     "members": [
       {
         "name": {"ja": "木本　充彦", "en": "Kimoto Mitsuhiko"} ,
@@ -30,6 +30,16 @@
         "name": {"ja": "岩沢　透", "en": "Toru Iwasawa"},
         "grade": {"ja": "研究員", "en": "Researcher"},
         "email": "iwasawa@ailab.ics.keio.ac.jp",
+        "img": "nowprinting.jpg"
+      }
+    ]
+  },  {
+    "role": {"ja": "秘書", "en": "Secretary"},
+    "members": [
+      {
+        "name": {"ja": "清水　奈緒子", "en": "Naoko Shimizu"} ,
+        "grade": {"ja": "秘書", "en": "Secretary"},
+        "email": "shimizu＠ailab.ics.keio.ac.jp",
         "img": "nowprinting.jpg"
       }
     ]
