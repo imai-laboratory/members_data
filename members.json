@@ -146,7 +146,7 @@
         "name": {"ja": "Eligia", "en": "Eligia"},
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
         "email": "eligia@ailab.ics.keio.ac.jp",
-        "img": "nowprinting.jpg"
+        "img": "eligia.jpg"
       },
       {
         "name": {"ja": "Alexia Monfort", "en": "Alexia Monfort"},
@@ -158,7 +158,7 @@
         "name": {"ja": "Sebastien Zhang", "en": "Sebastien Zhang"},
         "grade": {"ja": "修士課程1年", "en": "M.S. Candidate"},
         "email": "sebastien@ailab.ics.keio.ac.jp",
-        "img": "nowprinting.jpg"
+        "img": "sebastien.jpg"
       }
     ]
   }, {
