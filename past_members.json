@@ -1,4 +1,22 @@
-[
+[	{
+		"year": 2022,
+		"members": [
+			{
+				"name": {
+					"ja": "妹尾 卓磨",
+					"en": "Takuma Seno"
+				},
+				"grade": ""
+			},
+			{
+				"name": {
+					"ja": "松森 匠哉",
+					"en": "Shoya Matsumori"
+				},
+				"grade": ""
+			}
+		]
+	},
 	{
 		"year": 2021,
 		"members": [
