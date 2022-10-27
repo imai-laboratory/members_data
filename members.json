@@ -47,20 +47,6 @@
     "role": {"ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate"},
     "members": [
       {
-        "name": {"ja": "妹尾 卓磨", "en": "Takuma Seno"} ,
-        "grade": {"ja": "博士課程3年", "en": "Ph.D. Candidate"},
-        "email": "seno＠ailab.ics.keio.ac.jp",
-        "img": "seno.jpg",
-        "option": "<a href='https://takuseno.github.io'>Home Page</a>"
-      },
-      {
-        "name": {"ja": "松森 匠哉", "en": "Shoya Matsumori"} ,
-        "grade": {"ja": "博士課程3年, 日本学術振興会特別研究員DC", "en": "Ph.D. Candidate, JSPS Research Fellow (DC)"},
-        "email": "shoya＠ailab.ics.keio.ac.jp",
-        "img": "matsumori.jpg",
-        "option": "<a href='https://www.shoya.me'>Home Page</a>"
-      },
-      {
         "name": {"ja": "奥岡 耕平", "en": "Kohei Okuoka"} ,
         "grade": {"ja": "博士課程3年, 助教(有期)", "en": "Ph.D. Candidate"},
         "email": "okuoka＠ailab.ics.keio.ac.jp",
