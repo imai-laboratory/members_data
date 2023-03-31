@@ -1,4 +1,5 @@
-[	{
+[
+	{
 		"year": 2022,
 		"members": [
 			{
@@ -166,37 +167,43 @@
 			{
 				"name": {
 					"ja": "井上 南",
-					"en": "Minami Inoue"},
+					"en": "Minami Inoue"
+				},
 				"grade": ""
 			},
 			{
 				"name": {
 					"ja": "下山 香音",
-					"en": "Kaon Shimoyama"},
+					"en": "Kaon Shimoyama"
+				},
 				"grade": ""
 			},
 			{
 				"name": {
 					"ja": "土屋 碧渡",
-					"en": "Aoto Tsuchiya"},
+					"en": "Aoto Tsuchiya"
+				},
 				"grade": ""
 			},
 			{
 				"name": {
 					"ja": "長谷川 麟太郎",
-					"en": "Rintaro Hasegawa"},
+					"en": "Rintaro Hasegawa"
+				},
 				"grade": ""
 			},
 			{
 				"name": {
 					"ja": "郷地 瞳",
-					"en": "Hitomi Gouchi"},
+					"en": "Hitomi Gouchi"
+				},
 				"grade": ""
 			},
 			{
 				"name": {
 					"ja": "廣瀬 雅弘",
-					"en": "Masahiro Hirose"},
+					"en": "Masahiro Hirose"
+				},
 				"grade": ""
 			}
 		]
