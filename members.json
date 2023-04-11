@@ -75,6 +75,12 @@
                 "img": "poncelet.jpg"
             },
             {
+                "name": { "ja": "Eligia", "en": "Eligia" },
+                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "email": "eligia@ailab.ics.keio.ac.jp",
+                "img": "eligia.jpg"
+            },
+            {
                 "name": { "ja": "井上 南", "en": "Minami Inoue" },
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
                 "email": "inoue@ailab.ics.keio.ac.jp",
@@ -112,12 +118,6 @@
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "raffael@ailab.ics.keio.ac.jp",
                 "img": "raffael.jpg"
-            },
-            {
-                "name": { "ja": "Eligia", "en": "Eligia" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "eligia@ailab.ics.keio.ac.jp",
-                "img": "eligia.jpg"
             },
             {
                 "name": { "ja": "Alexia Monfort", "en": "Alexia Monfort" },
