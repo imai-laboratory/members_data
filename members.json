@@ -63,24 +63,6 @@
         "role": { "ja": "大学院生 (修士課程)", "en": "M.S. Candidate" },
         "members": [
             {
-                "name": { "ja": "神部 理咲", "en": "Risa Kambe" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "kambe@ailab.ics.keio.ac.jp",
-                "img": "kambe.png"
-            },
-            {
-                "name": { "ja": "テオ ポンセロ", "en": "Théo Poncelet" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "ptheo.poncelet@ailab.ics.keio.ac.jp",
-                "img": "poncelet.jpg"
-            },
-            {
-                "name": { "ja": "Eligia", "en": "Eligia" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "eligia@ailab.ics.keio.ac.jp",
-                "img": "eligia.jpg"
-            },
-            {
                 "name": { "ja": "井上 南", "en": "Minami Inoue" },
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
                 "email": "inoue@ailab.ics.keio.ac.jp",
@@ -109,6 +91,15 @@
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
                 "email": "sakuma@ailab.ics.keio.ac.jp",
                 "img": "sakuma.jpg"
+            },
+            {
+                "name": {
+                    "ja": "Pablo",
+                    "en": "Pablo"
+                },
+                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "email": "pablo@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
             },
             {
                 "name": {
