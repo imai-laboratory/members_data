@@ -1,5 +1,28 @@
 [
     {
+        "year": 2023,
+        "members": [
+            {
+                "name": {
+                    "ja": "神部 理咲",
+                    "en": "Risa Kambe"
+                }
+            },
+            {
+                "name": {
+                    "ja": "テオ ポンセロ",
+                    "en": "Théo Poncelet"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Eligia",
+                    "en": "Eligia"
+                }
+            }
+        ]
+    },
+    {
         "year": 2022,
         "members": [
             {
