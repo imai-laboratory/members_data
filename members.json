@@ -44,6 +44,17 @@
         ]
     },
     {
+        "role": { "ja": "秘書", "en": "Secretary" },
+        "members": [
+            {
+                "name": { "ja": "杉山 明子", "en": "Akiko Sugiyama" },
+                "grade": { "ja": "秘書", "en": "Secretary" },
+                "email": "sugiyama＠ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            }
+        ]
+    },
+    {
         "role": { "ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate" },
         "members": [
             {
