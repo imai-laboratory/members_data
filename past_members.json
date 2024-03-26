@@ -3,6 +3,46 @@
         "year": 2023,
         "members": [
             {
+                "name": { 
+                    "ja": "長谷川 麟太郎", 
+                    "en": "Rintaro Hasegawa" }
+            },
+            {
+                "name": { 
+                    "ja": "佐久間 唯太", 
+                    "en": "Yuita Sakuma" }
+            },
+            {
+                "name": { 
+                    "ja": "土屋 碧渡", 
+                    "en": "Aoto Tsuchiya" }
+            },
+            {
+                "name": { 
+                    "ja": "下山 香音", 
+                    "en": "Kaon Shimoyama" }
+            },
+            {
+                "name": { 
+                    "ja": "井上 南", 
+                    "en": "Minami Inoue" }
+            },
+            {
+                "name": { 
+                    "ja": "郷地 瞳", 
+                    "en": "Hitomi Gouchi" }
+            },
+            {
+                "name": { 
+                    "ja": "廣瀬 雅弘", 
+                    "en": "Masahiro Hirose" }
+            },
+            {
+                "name": { 
+                    "ja": "立平 真由美", 
+                    "en": "Mayumi Tatehira" }
+            },
+            {
                 "name": {
                     "ja": "神部 理咲",
                     "en": "Risa Kambe"
