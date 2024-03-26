@@ -3,44 +3,42 @@
         "year": 2023,
         "members": [
             {
-                "name": { 
-                    "ja": "長谷川 麟太郎", 
-                    "en": "Rintaro Hasegawa" }
+                "name": {
+                    "ja": "前川 知行",
+                    "en": "Tomoyuki Maekawa"
+                },
+                "grade": ""
             },
             {
-                "name": { 
-                    "ja": "佐久間 唯太", 
-                    "en": "Yuita Sakuma" }
+                "name": {
+                    "ja": "木本　充彦",
+                    "en": "Kimoto Mitsuhiko"
+                },
+                "grade": ""
             },
             {
-                "name": { 
-                    "ja": "土屋 碧渡", 
-                    "en": "Aoto Tsuchiya" }
-            },
-            {
-                "name": { 
-                    "ja": "下山 香音", 
-                    "en": "Kaon Shimoyama" }
-            },
-            {
-                "name": { 
-                    "ja": "井上 南", 
-                    "en": "Minami Inoue" }
-            },
-            {
-                "name": { 
-                    "ja": "郷地 瞳", 
-                    "en": "Hitomi Gouchi" }
-            },
-            {
-                "name": { 
-                    "ja": "廣瀬 雅弘", 
-                    "en": "Masahiro Hirose" }
-            },
-            {
-                "name": { 
-                    "ja": "立平 真由美", 
+                "name": {
+                    "ja": "立平 真由美",
                     "en": "Mayumi Tatehira" }
+            },
+            {
+                "name": {
+                    "ja": "杉山 明子",
+                    "en": "Akiko Sugiyama" }
+            },
+            {
+                "name": {
+                    "ja": "劉 子健",
+                    "en": "Zijian Liu"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "北出 卓也",
+                    "en": "Takuya Kitade"
+                },
+                "grade": ""
             },
             {
                 "name": {
@@ -56,9 +54,134 @@
             },
             {
                 "name": {
+                    "ja": "井上 南",
+                    "en": "Minami Inoue" }
+            },
+            {
+                "name": {
+                    "ja": "下山 香音",
+                    "en": "Kaon Shimoyama" }
+            },
+            {
+                "name": {
+                    "ja": "土屋 碧渡",
+                    "en": "Aoto Tsuchiya" }
+            },
+            {
+                "name": {
+                    "ja": "長谷川 麟太郎",
+                    "en": "Rintaro Hasegawa" }
+            },
+            {
+                "name": {
+                    "ja": "佐久間 唯太",
+                    "en": "Yuita Sakuma" }
+            },
+            {
+                "name": {
+                    "ja": "ラファエル ボラ ディ ロレンツォ",
+                    "en": "Raffael Bolla Di Lorenzo"
+                }
+            },
+            {
+                "name": {
                     "ja": "Eligia Alfio",
                     "en": "Eligia Alfio"
                 }
+            },
+            {
+                "name": {
+                    "ja": "Alexia Monfort",
+                    "en": "Alexia Monfort"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Sebastien Zhang",
+                    "en": "Sebastien Zhang"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Pablo Moreno",
+                    "en": "Pablo Moreno"
+                }
+            },
+            {
+                "name": {
+                    "ja": "赤堀 翔太",
+                    "en": "Shota Akahori"
+                }
+            },
+            {
+                "name": {
+                    "ja": "河原 彩乃",
+                    "en": "Ayano Kawara"
+                }
+            },
+            {
+                "name": {
+                    "ja": "澁谷 陸",
+                    "en": "Riku Shibuya"
+                }
+            },
+            {
+                "name": {
+                    "ja": "松﨑 光",
+                    "en": "Hikaru Matsuzaki"
+                }
+            },
+            {
+                "name": {
+                    "ja": "松岡 竜輝",
+                    "en": "Ryuki Matsuoka"
+                }
+            },
+            {
+                "name": {
+                    "ja": "小野寺 佳成",
+                    "en": "Yoshinari Onodera"
+                }
+            },
+            {
+                "name": {
+                    "ja": "立川 寛大",
+                    "en": "Kanta Tachikawa"
+                }
+            },
+            {
+                "name": {
+                    "ja": "大場 璃々",
+                    "en": "Riri Oba"
+                }
+            },
+            {
+                "name": {
+                    "ja": "三宅 芹奈",
+                    "en": "Serina Miyake"
+                }
+            },
+            {
+                "name": {
+                    "ja": "松室 拓秀",
+                    "en": "Takuho Matsumuro"
+                }
+            },
+            {
+                "name": {
+                    "ja": "中西 建心",
+                    "en": "Kenshin Nakanishi"
+                }
+            },
+            {
+                "name": {
+                    "ja": "郷地 瞳",
+                    "en": "Hitomi Gouchi" }
+            },
+            {
+                "name": {
+                    "ja": "廣瀬 雅弘",
+                    "en": "Masahiro Hirose" }
             }
         ]
     },
