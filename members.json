@@ -29,7 +29,7 @@
                 "name": { "ja": "杉山 明子", "en": "Akiko Sugiyama" },
                 "grade": { "ja": "秘書", "en": "Secretary" },
                 "email": "sugiyama@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "sugiyama.jpg"
             }
         ]
     },
@@ -153,7 +153,7 @@
                 "name": { "ja": "高山 直之", "en": "Naoyuki Takayama" },
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "takayama@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "takayama.jpg"
             }
         ]
     },
@@ -164,37 +164,37 @@
                 "name": { "ja": "伊藤 龍之介", "en": "Ryunosuke Ito" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "itou@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "ito.jpg"
             },
             {
                 "name": { "ja": "小野寺 慶治郎", "en": "Keijiro Onodera" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "k_onodera.jpg"
             },
             {
                 "name": { "ja": "草野 蘭子", "en": "Ranko Kusano" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "kusano@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "kusano.jpg"
             },
             {
                 "name": { "ja": "近光 真衣", "en": "Mai Chikamitsu" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "chikamitsu@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "chikamitsu.png"
             },
             {
                 "name": { "ja": "濱口 隼", "en": "Shun Hamaguchi" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "hamaguchi.jpg"
             },
             {
                 "name": { "ja": "本居 恒輝", "en": "Koki Motoi" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "motoi@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "motoi.jpg"
             }
         ]
     },
