@@ -170,7 +170,7 @@
                 "name": { "ja": "小野寺 慶治郎", "en": "Keijiro Onodera" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "k_onodera.jpg"
             },
             {
                 "name": { "ja": "草野 蘭子", "en": "Ranko Kusano" },
@@ -188,13 +188,13 @@
                 "name": { "ja": "濱口 隼", "en": "Shun Hamaguchi" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "hamaguchi.jpg"
             },
             {
                 "name": { "ja": "本居 恒輝", "en": "Koki Motoi" },
                 "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "motoi@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "motoi.jpg"
             }
         ]
     },
