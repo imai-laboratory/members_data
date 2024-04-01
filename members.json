@@ -209,8 +209,8 @@
             },
             {
                 "name": { "ja": "前川 知行", "en": "Tomoyuki Maekawa" },
-                "grade": { "ja": "研究員", "en": "Ph.D., Researcher"},
-                "email": "maekawa@ailab.ics.keio.ac.jp",
+                "grade": { "ja": "静岡大学情報学部, 助教", "en": "Assistant Professor, Faculty of Informatics, Shizuoka University"},
+                "email": "maekawa-tomoyuki@inf.shizuoka.ac.jp",
                 "img": "maekawa.jpg"
             }
         ]
