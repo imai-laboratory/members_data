@@ -208,6 +208,13 @@
                 "img": "kimoto.jpg"
             },
             {
+                "name": { "ja": "福地 庸介", "en": "Yosuke Fukuchi"},
+                "grade": { "ja": "研究員", "en": "Researcher" },
+                "email": "fukuchi@tmu.ac.jp",
+                "img": "fukuchi.jpg"
+
+            },
+            {
                 "name": { "ja": "前川 知行", "en": "Tomoyuki Maekawa" },
                 "grade": { "ja": "静岡大学情報学部, 助教", "en": "Assistant Professor, Faculty of Informatics, Shizuoka University"},
                 "email": "maekawa-tomoyuki@inf.shizuoka.ac.jp",
