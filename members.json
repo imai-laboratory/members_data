@@ -208,6 +208,13 @@
                 "img": "kimoto.jpg"
             },
             {
+                "name": { "ja": "福地 庸介", "en": "Yosuke Fukuchi"},
+                "grade": { "ja": "研究員", "en": "Researcher" },
+                "email": "fukuchi@tmu.ac.jp",
+                "img": "fukuchi.jpg"
+
+            },
+            {
                 "name": { "ja": "前川 知行", "en": "Tomoyuki Maekawa" },
                 "grade": { "ja": "研究員", "en": "Ph.D., Researcher"},
                 "email": "maekawa@ailab.ics.keio.ac.jp",
