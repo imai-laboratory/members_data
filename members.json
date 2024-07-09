@@ -203,13 +203,13 @@
         "members": [
             {
                 "name": { "ja": "石井 健太郎", "en": "Kentaro Ishii" },
-                "grade": { "ja": "専修大学教授", "en": "Professor at Senshu University" },
+                "grade": { "ja": "専修大学, 教授", "en": "Professor at Senshu University" },
                 "email": "kenta@pc.fm.senshu-u.ac.jp",
                 "img": "kenta.jpg"
             },
             {
                 "name": { "ja": "木本 充彦", "en": "Kimoto Mitsuhiko" },
-                "grade": { "ja": "研究員", "en": "Researcher" },
+                "grade": { "ja": "明治大学, 専任講師", "en": "Researcher" },
                 "email": "kimoto@ailab.ics.keio.ac.jp",
                 "img": "kimoto.jpg"
             },
