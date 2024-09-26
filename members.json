@@ -47,21 +47,24 @@
                 "grade": { "ja": "博士課程2年", "en": "Ph.D. Candidate" },
                 "email": "kitade@ailab.ics.keio.ac.jp",
                 "img": "kitade.jpg"
+            },
+            {
+                "name": { "ja": "松﨑 光", "en": "Hikaru Matsuzaki" },
+                "grade": { "ja": "博士課程1年", "en": "Ph.D. Candidate" },
+                "email": "matsuzaki@ailab.ics.keio.ac.jp",
+                "img": "matsuzaki.jpg"
+            },
+            {
+                "name": { "ja": "松岡 竜輝", "en": "Ryuki Matsuoka" },
+                "grade": { "ja": "博士課程1年", "en": "Ph.D. Candidate" },
+                "email": "matsuoka@ailab.ics.keio.ac.jp",
+                "img": "matsuoka.jpg"
             }
         ]
     },
     {
         "role": { "ja": "大学院生 (修士課程)", "en": "M.S. Candidate" },
         "members": [
-            {
-                "name": {
-                    "ja": "Pablo Moreno",
-                    "en": "Pablo Moreno"
-                },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "pablo@ailab.ics.keio.ac.jp",
-                "img": "pablo.jpg"
-            },
             {
                 "name": { "ja": "赤堀 翔太", "en": "Shota Akahori" },
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
@@ -81,37 +84,22 @@
                 "img": "shibuya.jpg"
             },
             {
-                "name": { "ja": "松﨑 光", "en": "Hikaru Matsuzaki" },
+                "name": { "ja": "Shahoud Mariam", "en": "Shahoud Mariam" },
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "matsuzaki@ailab.ics.keio.ac.jp",
-                "img": "matsuzaki.jpg"
+                "email": "",
+                "img": "nowprinting.jpg"
             },
             {
-                "name": { "ja": "松岡 竜輝", "en": "Ryuki Matsuoka" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "matsuoka@ailab.ics.keio.ac.jp",
-                "img": "matsuoka.jpg"
+                "name": { "ja": "Rodrigo Tamaki", "en": "Rodrigo Tamaki" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "",
+                "img": "nowprinting.jpg"
             },
             {
-                "name": {
-                    "ja": "ラファエル ボラ ディ ロレンツォ",
-                    "en": "Raffael Bolla Di Lorenzo"
-                },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "raffael@ailab.ics.keio.ac.jp",
-                "img": "raffael.jpg"
-            },
-            {
-                "name": { "ja": "Alexia Monfort", "en": "Alexia Monfort" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "alexia@ailab.ics.keio.ac.jp",
-                "img": "alexia.jpg"
-            },
-            {
-                "name": { "ja": "Sebastien Zhang", "en": "Sebastien Zhang" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "sebastien@ailab.ics.keio.ac.jp",
-                "img": "sebastien.jpg"
+                "name": { "ja": "Haname Laassilia", "en": "Haname Laassilia" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "",
+                "img": "nowprinting.jpg"
             },
             {
                 "name": { "ja": "小野寺 佳成", "en": "Yoshinari Onodera" },
