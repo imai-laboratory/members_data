@@ -1,5 +1,40 @@
 [
     {
+        "year": 2024,
+        "members": [
+            {
+                "name": {
+                    "ja": "ラファエル ボラ ディ ロレンツォ",
+                    "en": "Raffael Bolla Di Lorenzo"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Eligia Alfio",
+                    "en": "Eligia Alfio"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Alexia Monfort",
+                    "en": "Alexia Monfort"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Sebastien Zhang",
+                    "en": "Sebastien Zhang"
+                }
+            },
+            {
+                "name": {
+                    "ja": "Pablo Moreno",
+                    "en": "Pablo Moreno"
+                }
+            }
+        ]
+    },
+    {
         "year": 2023,
         "members": [
             {
