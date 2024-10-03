@@ -135,7 +135,8 @@
                 "name": { "ja": "中西 建心", "en": "Kenshin Nakanishi" },
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "nakanishi@ailab.ics.keio.ac.jp",
-                "img": "nakanishi.jpg"
+                "img": "nakanishi.jpg",
+                "option": "<a href='https://www.ailab.ics.keio.ac.jp/member_personal_webpages/kenshin/'>Home Page</a>"
             },
             {
                 "name": { "ja": "高山 直之", "en": "Naoyuki Takayama" },
