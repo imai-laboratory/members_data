@@ -23,17 +23,6 @@
         ]
     },
     {
-        "role": { "ja": "秘書", "en": "Secretary" },
-        "members": [
-            {
-                "name": { "ja": "杉山 明子", "en": "Akiko Sugiyama" },
-                "grade": { "ja": "秘書", "en": "Secretary" },
-                "email": "sugiyama@ailab.ics.keio.ac.jp",
-                "img": "sugiyama.jpg"
-            }
-        ]
-    },
-    {
         "role": { "ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate" },
         "members": [
             {
@@ -149,12 +138,6 @@
                 "grade": { "ja": "修士課程1年", "en": "Undergraduate" },
                 "email": "chikamitsu@ailab.ics.keio.ac.jp",
                 "img": "chikamitsu.png"
-            },
-            {
-                "name": { "ja": "濱口 隼", "en": "Shun Hamaguchi" },
-                "grade": { "ja": "修士課程1年", "en": "Undergraduate" },
-                "email": "hamaguchi@ailab.ics.keio.ac.jp",
-                "img": "hamaguchi.jpg"
             },
             {
                 "name": { "ja": "本居 恒輝", "en": "Koki Motoi" },
