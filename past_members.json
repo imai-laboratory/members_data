@@ -3,39 +3,34 @@
         "year": 2025,
         "members": [
             {
-                "name": { "ja": "赤堀 翔太", "en": "Shota Akahori" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "akahori@ailab.ics.keio.ac.jp",
-                "img": "akahori.jpg"
+                "name": {
+                    "ja": "赤堀 翔太",
+                    "en": "Shota Akahori"
+                }
             },
             {
-                "name": { "ja": "河原 彩乃", "en": "Ayano Kawara" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "kawara@ailab.ics.keio.ac.jp",
-                "img": "kawara.jpg"
+                "name": {
+                    "ja": "河原 彩乃",
+                    "en": "Ayano Kawara"
+                }
             },
             {
-                "name": { "ja": "澁谷 陸", "en": "Riku Shibuya" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "shibuya@ailab.ics.keio.ac.jp",
-                "img": "shibuya.jpg"
+                "name": {
+                    "ja": "澁谷 陸",
+                    "en": "Riku Shibuya"
+                }
             },
             {
-                "role": { "ja": "秘書", "en": "Secretary" },
-                "members": [
-                    {
-                        "name": { "ja": "杉山 明子", "en": "Akiko Sugiyama" },
-                        "grade": { "ja": "秘書", "en": "Secretary" },
-                        "email": "sugiyama@ailab.ics.keio.ac.jp",
-                        "img": "sugiyama.jpg"
-                    }
-                ]
+                "name": {
+                    "ja": "杉山 明子",
+                    "en": "Akiko Sugiyama"
+                }
             },
             {
-                "name": { "ja": "濱口 隼", "en": "Shun Hamaguchi" },
-                "grade": { "ja": "修士課程1年", "en": "Undergraduate" },
-                "email": "hamaguchi@ailab.ics.keio.ac.jp",
-                "img": "hamaguchi.jpg"
+                "name": {
+                    "ja": "濱口 隼",
+                    "en": "Shun Hamaguchi"
+                }
             }
         ]
     },
