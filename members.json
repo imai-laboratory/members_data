@@ -125,7 +125,7 @@
                 "name": { "ja": "小野寺 慶治郎", "en": "Keijiro Onodera" },
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "keijiro@ailab.ics.keio.ac.jp",
-                "img": "k_onodera.jpg"
+                "img": "k_onodera.png"
             },
             {
                 "name": { "ja": "草野 蘭子", "en": "Ranko Kusano" },
@@ -166,13 +166,13 @@
                 "name": { "ja": "有村 勇輝", "en": "Yuki Arimura" },
                 "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
                 "email": "arimura@ailab.ics.keio.ac.jp",
-                "img": "arimura.jpg"
+                "img": "arimura.png"
             },
             {
                 "name": { "ja": "池上 遼祐", "en": "Ryosuke Ikegami" },
                 "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
                 "email": "ikegami@ailab.ics.keio.ac.jp",
-                "img": "ikegami.jpg"
+                "img": "ikegami.png"
             },
             {
                 "name": { "ja": "浅田 尚希", "en": "Naoki Asada" },
