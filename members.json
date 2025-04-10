@@ -144,6 +144,12 @@
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "motoi@ailab.ics.keio.ac.jp",
                 "img": "motoi.jpg"
+            },
+            {
+                "name": { "ja": "亀山 哲広", "en": "Tetsuhiro Kameyama" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "kameyama@ailab.ics.keio.ac.jp",
+                "img": "kameyama.jpg"
             }
         ]
     },
@@ -152,37 +158,37 @@
         "members": [
             {
                 "name": { "ja": "折井 悠真", "en": "Yuma Orii" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "orii@ailab.ics.keio.ac.jp",
                 "img": "orii.jpg"
             },
             {
                 "name": { "ja": "馬場 響己", "en": "Hibiki Baba" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "baba@ailab.ics.keio.ac.jp",
                 "img": "baba.jpg"
             },
             {
                 "name": { "ja": "有村 勇輝", "en": "Yuki Arimura" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "arimura@ailab.ics.keio.ac.jp",
                 "img": "arimura.png"
             },
             {
                 "name": { "ja": "池上 遼祐", "en": "Ryosuke Ikegami" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "ikegami@ailab.ics.keio.ac.jp",
                 "img": "ikegami.png"
             },
             {
                 "name": { "ja": "浅田 尚希", "en": "Naoki Asada" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "asada@ailab.ics.keio.ac.jp",
                 "img": "asada.jpg"
             },
             {
                 "name": { "ja": "中村 颯", "en": "Sou Nakamura" },
-                "grade": { "ja": "学士課程1年", "en": "Undergraduate" },
+                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
                 "email": "nakamura@ailab.ics.keio.ac.jp",
                 "img": "nakamura.jpg"
             }
