@@ -19,12 +19,7 @@
                 "grade": { "ja": "研究員", "en": "Researcher" },
                 "email": "okuoka@ailab.ics.keio.ac.jp",
                 "img": "okuoka.jpg"
-            }
-        ]
-    },
-    {
-        "role": { "ja": "客員", "en": "Visiting Staff" },
-        "members": [
+            },
             {
                 "name": { "ja": "本田 裕", "en": "Yu Honda"},
                 "grade": { "ja": "研究員", "en": "Researcher" },
