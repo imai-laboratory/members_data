@@ -23,6 +23,17 @@
         ]
     },
     {
+        "role": { "ja": "客員", "en": "Visiting Staff" },
+        "members": [
+            {
+                "name": { "ja": "本田 裕", "en": "Yu Honda"},
+                "grade": { "ja": "研究員", "en": "Researcher" },
+                "email": "honda@ailab.ics.keio.ac.jp",
+                "img": "honda.jpg"
+            }
+        ]
+    },
+    {
         "role": { "ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate" },
         "members": [
             {
@@ -59,18 +70,6 @@
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
                 "email": "shahoud@ailab.ics.keio.ac.jp",
                 "img": "mariam.jpeg"
-            },
-            {
-                "name": { "ja": "Rodrigo Tamaki", "en": "Rodrigo Tamaki" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
-                "email": "rodrigo@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
-            },
-            {
-                "name": { "ja": "Haname Laassilia", "en": "Haname Laassilia" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
-                "email": "hanane@ailab.ics.keio.ac.jp",
-                "img": "hanane.jpg"
             },
             {
                 "name": { "ja": "小野寺 佳成", "en": "Yoshinari Onodera" },
@@ -114,6 +113,18 @@
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
                 "email": "takayama@ailab.ics.keio.ac.jp",
                 "img": "takayama.jpg"
+            },
+            {
+                "name": { "ja": "Rodrigo Tamaki", "en": "Rodrigo Tamaki" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "rodrigo@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            },
+            {
+                "name": { "ja": "Hanane Laassilia", "en": "Haname Laassilia" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "hanane@ailab.ics.keio.ac.jp",
+                "img": "hanane.jpg"
             },
             {
                 "name": { "ja": "伊藤 龍之介", "en": "Ryunosuke Ito" },
