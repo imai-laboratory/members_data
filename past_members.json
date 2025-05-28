@@ -4,6 +4,25 @@
         "members": [
             {
                 "name": {
+                    "ja": "劉 子健",
+                    "en": "Zijian Liu"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "松崎 光",
+                    "en": "Hikaru Matsuzaki"
+                }
+            },
+            {
+                "name": {
+                    "ja": "松岡 竜輝",
+                    "en": "Ryuki Matsuoka"
+                }
+            },
+            {
+                "name": {
                     "ja": "ラファエル ボラ ディ ロレンツォ",
                     "en": "Raffael Bolla Di Lorenzo"
                 }
@@ -33,23 +52,10 @@
                 }
             },
             {
-                "name": {
-                    "ja": "松崎 光",
-                    "en": "Hikaru Matsuzaki"
+                "name":{
+                    "ja": "Mariam Shahoud",
+                    "en": "Mariam Shahoud"
                 }
-            },
-            {
-                "name": {
-                    "ja": "松岡 竜輝",
-                    "en": "Ryuki Matsuoka"
-                }
-            },
-            {
-                "name": {
-                    "ja": "劉 子健",
-                    "en": "Zijian Liu"
-                },
-                "grade": ""
             },
             {
                 "name": {
@@ -67,6 +73,18 @@
                 "name": {
                     "ja": "澁谷 陸",
                     "en": "Riku Shibuya"
+                }
+            },
+            {
+                "name":{
+                    "ja": "Rodrigo Tamaki",
+                    "en": "Rodrigo Tamaki"
+                }
+            },
+            {
+                "name":{
+                    "ja": "Hanane Laassilia",
+                    "en": "Hanane Laassilia"
                 }
             },
             {
