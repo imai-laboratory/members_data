@@ -33,13 +33,13 @@
         "members": [
             {
                 "name": { "ja": "劉 子健", "en": "Zijian Liu" },
-                "grade": { "ja": "博士課程4年", "en": "Ph.D. Candidate" },
+                "grade": { "ja": "博士課程5年", "en": "Ph.D. Candidate" },
                 "email": "liu@ailab.ics.keio.ac.jp",
                 "img": "liu.jpeg"
             },
             {
                 "name": { "ja": "北出 卓也", "en": "Takuya Kitade" },
-                "grade": { "ja": "博士課程2年", "en": "Ph.D. Candidate" },
+                "grade": { "ja": "博士課程3年", "en": "Ph.D. Candidate" },
                 "email": "kitade@ailab.ics.keio.ac.jp",
                 "img": "kitade.jpg"
             },
@@ -60,12 +60,6 @@
     {
         "role": { "ja": "大学院生 (修士課程)", "en": "M.S. Candidate" },
         "members": [
-            {
-                "name": { "ja": "Mariam Shahoud", "en": "Mariam Shahoud" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
-                "email": "shahoud@ailab.ics.keio.ac.jp",
-                "img": "mariam.jpeg"
-            },
             {
                 "name": { "ja": "小野寺 佳成", "en": "Yoshinari Onodera" },
                 "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
@@ -156,6 +150,36 @@
                 "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
                 "email": "kameyama@ailab.ics.keio.ac.jp",
                 "img": "kameyama.jpg"
+            },
+            {
+                "name": { "ja": "Mateo Chesneau", "en": "Mateo Chesneau" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "chesneau@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            },
+            {
+                "name": { "ja": "Ibrahim El Shourbagi", "en": "Ibrahim El Shourbagi" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "el-shourbagi@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            },
+            {
+                "name": { "ja": "Nassim RIHANE", "en": "Nassim RIHANE" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "rihane@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            },
+            {
+                "name": { "ja": "SALOMON Timothée", "en": "SALOMON Timothée" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "salomon@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
+            },
+            {
+                "name": { "ja": "Omar Ali", "en": "Omar Ali" },
+                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "email": "ali@ailab.ics.keio.ac.jp",
+                "img": "nowprinting.jpg"
             }
         ]
     },
