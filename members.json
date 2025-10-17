@@ -1,10 +1,19 @@
 [
     {
-        "role": { "ja": "研究室スタッフ", "en": "Faculty and Research Staff" },
+        "role": {
+            "ja": "研究室スタッフ",
+            "en": "Faculty and Research Staff"
+        },
         "members": [
             {
-                "name": { "ja": "今井 倫太", "en": "Michita Imai" },
-                "grade": { "ja": "博士(工学), 教授", "en": "Ph.D., Professor" },
+                "name": {
+                    "ja": "今井 倫太",
+                    "en": "Michita Imai"
+                },
+                "grade": {
+                    "ja": "博士(工学), 教授",
+                    "en": "Ph.D., Professor"
+                },
                 "email": "michita@ailab.ics.keio.ac.jp",
                 "img": "imai.png",
                 "option": "<a href='https://imai-laboratory.github.io/webpage_personal/michita'>Home Page</a>"
@@ -12,243 +21,473 @@
         ]
     },
     {
-        "role": { "ja": "客員", "en": "Visiting Staff" },
+        "role": {
+            "ja": "客員",
+            "en": "Visiting Staff"
+        },
         "members": [
             {
-                "name": { "ja": "奥岡 耕平", "en": "Kohei Okuoka"},
-                "grade": { "ja": "研究員", "en": "Researcher" },
+                "name": {
+                    "ja": "奥岡 耕平",
+                    "en": "Kohei Okuoka"
+                },
+                "grade": {
+                    "ja": "研究員",
+                    "en": "Researcher"
+                },
                 "email": "okuoka@ailab.ics.keio.ac.jp",
                 "img": "okuoka.jpg"
             },
             {
-                "name": { "ja": "本田 裕", "en": "Yu Honda"},
-                "grade": { "ja": "研究員", "en": "Researcher" },
+                "name": {
+                    "ja": "本田 裕",
+                    "en": "Yu Honda"
+                },
+                "grade": {
+                    "ja": "研究員",
+                    "en": "Researcher"
+                },
                 "email": "honda@ailab.ics.keio.ac.jp",
                 "img": "honda.jpg"
             }
         ]
     },
     {
-        "role": { "ja": "大学院生 (博士課程)", "en": "Ph.D. Candidate" },
+        "role": {
+            "ja": "大学院生 (博士課程)",
+            "en": "Ph.D. Candidate"
+        },
         "members": [
             {
-                "name": { "ja": "劉 子健", "en": "Zijian Liu" },
-                "grade": { "ja": "博士課程5年", "en": "Ph.D. Candidate" },
+                "name": {
+                    "ja": "劉 子健",
+                    "en": "Zijian Liu"
+                },
+                "grade": {
+                    "ja": "博士課程5年",
+                    "en": "Ph.D. Candidate"
+                },
                 "email": "liu@ailab.ics.keio.ac.jp",
                 "img": "liu.jpeg"
             },
             {
-                "name": { "ja": "北出 卓也", "en": "Takuya Kitade" },
-                "grade": { "ja": "博士課程3年", "en": "Ph.D. Candidate" },
+                "name": {
+                    "ja": "北出 卓也",
+                    "en": "Takuya Kitade"
+                },
+                "grade": {
+                    "ja": "博士課程3年",
+                    "en": "Ph.D. Candidate"
+                },
                 "email": "kitade@ailab.ics.keio.ac.jp",
                 "img": "kitade.jpg"
             },
             {
-                "name": { "ja": "松﨑 光", "en": "Hikaru Matsuzaki" },
-                "grade": { "ja": "博士課程1年", "en": "Ph.D. Candidate" },
+                "name": {
+                    "ja": "松﨑 光",
+                    "en": "Hikaru Matsuzaki"
+                },
+                "grade": {
+                    "ja": "博士課程1年",
+                    "en": "Ph.D. Candidate"
+                },
                 "email": "matsuzaki@ailab.ics.keio.ac.jp",
                 "img": "matsuzaki.jpg"
             },
             {
-                "name": { "ja": "松岡 竜輝", "en": "Ryuki Matsuoka" },
-                "grade": { "ja": "博士課程1年", "en": "Ph.D. Candidate" },
+                "name": {
+                    "ja": "松岡 竜輝",
+                    "en": "Ryuki Matsuoka"
+                },
+                "grade": {
+                    "ja": "博士課程1年",
+                    "en": "Ph.D. Candidate"
+                },
                 "email": "matsuoka@ailab.ics.keio.ac.jp",
                 "img": "matsuoka.jpg"
             }
         ]
     },
     {
-        "role": { "ja": "大学院生 (修士課程)", "en": "M.S. Candidate" },
+        "role": {
+            "ja": "大学院生 (修士課程)",
+            "en": "M.S. Candidate"
+        },
         "members": [
             {
-                "name": { "ja": "小野寺 佳成", "en": "Yoshinari Onodera" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "小野寺 佳成",
+                    "en": "Yoshinari Onodera"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "yoshinari@ailab.ics.keio.ac.jp",
                 "img": "onodera.jpg"
             },
             {
-                "name": { "ja": "立川 寛大", "en": "Kanta Tachikawa" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "立川 寛大",
+                    "en": "Kanta Tachikawa"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "tachikawa@ailab.ics.keio.ac.jp",
                 "img": "tachikawa.jpg"
             },
             {
-                "name": { "ja": "大場 璃々", "en": "Riri Oba" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "大場 璃々",
+                    "en": "Riri Oba"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "ooba@ailab.ics.keio.ac.jp",
                 "img": "oba.png"
             },
             {
-                "name": { "ja": "三宅 芹奈", "en": "Serina Miyake" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "三宅 芹奈",
+                    "en": "Serina Miyake"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "miyake@ailab.ics.keio.ac.jp",
                 "img": "miyake.jpg"
             },
             {
-                "name": { "ja": "松室 拓秀", "en": "Takuho Matsumuro" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "松室 拓秀",
+                    "en": "Takuho Matsumuro"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "matsumuro@ailab.ics.keio.ac.jp",
                 "img": "matsumuro.jpg"
             },
             {
-                "name": { "ja": "中西 建心", "en": "Kenshin Nakanishi" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "中西 建心",
+                    "en": "Kenshin Nakanishi"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "nakanishi@ailab.ics.keio.ac.jp",
                 "img": "nakanishi.jpg",
                 "option": "<a href='https://www.ailab.ics.keio.ac.jp/member_personal_webpages/kenshin/'>Home Page</a>"
             },
             {
-                "name": { "ja": "高山 直之", "en": "Naoyuki Takayama" },
-                "grade": { "ja": "修士課程2年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "高山 直之",
+                    "en": "Naoyuki Takayama"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "takayama@ailab.ics.keio.ac.jp",
                 "img": "takayama.jpg"
             },
             {
-                "name": { "ja": "Rodrigo Tamaki", "en": "Rodrigo Tamaki" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Rodrigo Tamaki",
+                    "en": "Rodrigo Tamaki"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "rodrigo@ailab.ics.keio.ac.jp",
                 "img": "nowprinting.jpg"
             },
             {
-                "name": { "ja": "Hanane Laassilia", "en": "Haname Laassilia" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Hanane Laassilia",
+                    "en": "Haname Laassilia"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "hanane@ailab.ics.keio.ac.jp",
                 "img": "hanane.jpg"
             },
             {
-                "name": { "ja": "伊藤 龍之介", "en": "Ryunosuke Ito" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "伊藤 龍之介",
+                    "en": "Ryunosuke Ito"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "itou@ailab.ics.keio.ac.jp",
                 "img": "ito.jpg"
             },
             {
-                "name": { "ja": "小野寺 慶治郎", "en": "Keijiro Onodera" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "小野寺 慶治郎",
+                    "en": "Keijiro Onodera"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "keijiro@ailab.ics.keio.ac.jp",
                 "img": "k_onodera.png"
             },
             {
-                "name": { "ja": "草野 蘭子", "en": "Ranko Kusano" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "草野 蘭子",
+                    "en": "Ranko Kusano"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "kusano@ailab.ics.keio.ac.jp",
                 "img": "kusano.jpg"
             },
             {
-                "name": { "ja": "近光 真衣", "en": "Mai Chikamitsu" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "近光 真衣",
+                    "en": "Mai Chikamitsu"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "chikamitsu@ailab.ics.keio.ac.jp",
                 "img": "chikamitsu.png"
             },
             {
-                "name": { "ja": "本居 恒輝", "en": "Koki Motoi" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "本居 恒輝",
+                    "en": "Koki Motoi"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "motoi@ailab.ics.keio.ac.jp",
                 "img": "motoi.jpg"
             },
             {
-                "name": { "ja": "亀山 哲広", "en": "Tetsuhiro Kameyama" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "亀山 哲広",
+                    "en": "Tetsuhiro Kameyama"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "kameyama@ailab.ics.keio.ac.jp",
                 "img": "kameyama.jpg"
             },
             {
-                "name": { "ja": "Mateo Chesneau", "en": "Mateo Chesneau" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Mateo Chesneau",
+                    "en": "Mateo Chesneau"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "chesneau@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "mateo.jpg"
             },
             {
-                "name": { "ja": "Ibrahim El Shourbagi", "en": "Ibrahim El Shourbagi" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Ibrahim El Shourbagi",
+                    "en": "Ibrahim El Shourbagi"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "el-shourbagi@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "ibrahim.jpg"
             },
             {
-                "name": { "ja": "Nassim RIHANE", "en": "Nassim RIHANE" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Nassim RIHANE",
+                    "en": "Nassim RIHANE"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "rihane@ailab.ics.keio.ac.jp",
                 "img": "nowprinting.jpg"
             },
             {
-                "name": { "ja": "SALOMON Timothée", "en": "SALOMON Timothée" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "SALOMON Timothée",
+                    "en": "SALOMON Timothée"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "salomon@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "timothee.jpg"
             },
             {
-                "name": { "ja": "Omar Ali", "en": "Omar Ali" },
-                "grade": { "ja": "修士課程1年", "en": "M.S. Candidate" },
+                "name": {
+                    "ja": "Omar Ali",
+                    "en": "Omar Ali"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
                 "email": "ali@ailab.ics.keio.ac.jp",
-                "img": "nowprinting.jpg"
+                "img": "omar.jpg"
             }
         ]
     },
     {
-        "role": { "ja": "学部生", "en": "Undergraduate" },
+        "role": {
+            "ja": "学部生",
+            "en": "Undergraduate"
+        },
         "members": [
             {
-                "name": { "ja": "折井 悠真", "en": "Yuma Orii" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "折井 悠真",
+                    "en": "Yuma Orii"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "orii@ailab.ics.keio.ac.jp",
                 "img": "orii.jpg"
             },
             {
-                "name": { "ja": "馬場 響己", "en": "Hibiki Baba" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "馬場 響己",
+                    "en": "Hibiki Baba"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "baba@ailab.ics.keio.ac.jp",
                 "img": "baba.jpg"
             },
             {
-                "name": { "ja": "有村 勇輝", "en": "Yuki Arimura" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "有村 勇輝",
+                    "en": "Yuki Arimura"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "arimura@ailab.ics.keio.ac.jp",
                 "img": "arimura.png"
             },
             {
-                "name": { "ja": "池上 遼祐", "en": "Ryosuke Ikegami" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "池上 遼祐",
+                    "en": "Ryosuke Ikegami"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "ikegami@ailab.ics.keio.ac.jp",
                 "img": "ikegami.png"
             },
             {
-                "name": { "ja": "浅田 尚希", "en": "Naoki Asada" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "浅田 尚希",
+                    "en": "Naoki Asada"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "asada@ailab.ics.keio.ac.jp",
                 "img": "asada.jpg"
             },
             {
-                "name": { "ja": "中村 颯", "en": "Sou Nakamura" },
-                "grade": { "ja": "学士課程4年", "en": "Undergraduate" },
+                "name": {
+                    "ja": "中村 颯",
+                    "en": "Sou Nakamura"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
                 "email": "nakamura@ailab.ics.keio.ac.jp",
                 "img": "nakamura.jpg"
             }
         ]
     },
     {
-        "role": { "ja": "連携研究者", "en": "Collaborative researcher" },
+        "role": {
+            "ja": "連携研究者",
+            "en": "Collaborative researcher"
+        },
         "members": [
             {
-                "name": { "ja": "石井 健太郎", "en": "Kentaro Ishii" },
-                "grade": { "ja": "専修大学, 教授", "en": "Professor at Senshu University" },
+                "name": {
+                    "ja": "石井 健太郎",
+                    "en": "Kentaro Ishii"
+                },
+                "grade": {
+                    "ja": "専修大学, 教授",
+                    "en": "Professor at Senshu University"
+                },
                 "email": "kenta@pc.fm.senshu-u.ac.jp",
                 "img": "kenta.jpg"
             },
             {
-                "name": { "ja": "木本 充彦", "en": "Kimoto Mitsuhiko" },
-                "grade": { "ja": "明治大学, 専任講師", "en": "Researcher" },
+                "name": {
+                    "ja": "木本 充彦",
+                    "en": "Kimoto Mitsuhiko"
+                },
+                "grade": {
+                    "ja": "明治大学, 専任講師",
+                    "en": "Researcher"
+                },
                 "email": "kimoto@ailab.ics.keio.ac.jp",
                 "img": "kimoto.jpg"
             },
             {
-                "name": { "ja": "福地 庸介", "en": "Yosuke Fukuchi"},
-                "grade": { "ja": "東京都立大学システムデザイン学部情報科学科, 助教", "en": "Researcher" },
+                "name": {
+                    "ja": "福地 庸介",
+                    "en": "Yosuke Fukuchi"
+                },
+                "grade": {
+                    "ja": "東京都立大学システムデザイン学部情報科学科, 助教",
+                    "en": "Researcher"
+                },
                 "email": "fukuchi@tmu.ac.jp",
                 "img": "fukuchi.jpg"
-
             },
             {
-                "name": { "ja": "前川 知行", "en": "Tomoyuki Maekawa" },
-                "grade": { "ja": "静岡大学情報学部, 助教", "en": "Assistant Professor, Faculty of Informatics, Shizuoka University"},
+                "name": {
+                    "ja": "前川 知行",
+                    "en": "Tomoyuki Maekawa"
+                },
+                "grade": {
+                    "ja": "静岡大学情報学部, 助教",
+                    "en": "Assistant Professor, Faculty of Informatics, Shizuoka University"
+                },
                 "email": "maekawa-tomoyuki@inf.shizuoka.ac.jp",
                 "img": "maekawa.jpg"
             }
