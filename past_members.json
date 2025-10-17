@@ -64,7 +64,7 @@
                 }
             },
             {
-                "name":{
+                "name": {
                     "ja": "Mariam Shahoud",
                     "en": "Mariam Shahoud"
                 }
@@ -88,13 +88,13 @@
                 }
             },
             {
-                "name":{
+                "name": {
                     "ja": "Rodrigo Tamaki",
                     "en": "Rodrigo Tamaki"
                 }
             },
             {
-                "name":{
+                "name": {
                     "ja": "Hanane Laassilia",
                     "en": "Hanane Laassilia"
                 }
@@ -205,12 +205,14 @@
             {
                 "name": {
                     "ja": "立平 真由美",
-                    "en": "Mayumi Tatehira" }
+                    "en": "Mayumi Tatehira"
+                }
             },
             {
                 "name": {
                     "ja": "杉山 明子",
-                    "en": "Akiko Sugiyama" }
+                    "en": "Akiko Sugiyama"
+                }
             },
             {
                 "name": {
@@ -241,27 +243,32 @@
             {
                 "name": {
                     "ja": "井上 南",
-                    "en": "Minami Inoue" }
+                    "en": "Minami Inoue"
+                }
             },
             {
                 "name": {
                     "ja": "下山 香音",
-                    "en": "Kaon Shimoyama" }
+                    "en": "Kaon Shimoyama"
+                }
             },
             {
                 "name": {
                     "ja": "土屋 碧渡",
-                    "en": "Aoto Tsuchiya" }
+                    "en": "Aoto Tsuchiya"
+                }
             },
             {
                 "name": {
                     "ja": "長谷川 麟太郎",
-                    "en": "Rintaro Hasegawa" }
+                    "en": "Rintaro Hasegawa"
+                }
             },
             {
                 "name": {
                     "ja": "佐久間 唯太",
-                    "en": "Yuita Sakuma" }
+                    "en": "Yuita Sakuma"
+                }
             },
             {
                 "name": {
@@ -362,12 +369,14 @@
             {
                 "name": {
                     "ja": "郷地 瞳",
-                    "en": "Hitomi Gouchi" }
+                    "en": "Hitomi Gouchi"
+                }
             },
             {
                 "name": {
                     "ja": "廣瀬 雅弘",
-                    "en": "Masahiro Hirose" }
+                    "en": "Masahiro Hirose"
+                }
             }
         ]
     },
