@@ -105,7 +105,19 @@
                 },
                 "email": "matsuoka@ailab.ics.keio.ac.jp",
                 "img": "matsuoka.jpg"
-            }
+            },
+            {
+                "name": {
+                    "ja": "大場 璃々",
+                    "en": "Riri Oba"
+                },
+                "grade": {
+                    "ja": "博士課程1年",
+                    "en": "Ph.D. Candidate"
+                },
+                "email": "ooba@ailab.ics.keio.ac.jp",
+                "img": "oba.png"
+            },
         ]
     },
     {
