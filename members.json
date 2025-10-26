@@ -106,18 +106,6 @@
                 "email": "matsuoka@ailab.ics.keio.ac.jp",
                 "img": "matsuoka.jpg"
             }
-                        {
-                "name": {
-                    "ja": "大場 璃々",
-                    "en": "Riri Oba"
-                },
-                "grade": {
-                    "ja": "博士課程1年",
-                    "en": "Ph.D. Candidate"
-                },
-                "email": "ooba@ailab.ics.keio.ac.jp",
-                "img": "oba.png"
-            },
         ]
     },
     {
@@ -152,6 +140,18 @@
             },
             {
                 "name": {
+                    "ja": "大場 璃々",
+                    "en": "Riri Oba"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "ooba@ailab.ics.keio.ac.jp",
+                "img": "oba.png"
+            },
+            {
+                "name": {
                     "ja": "三宅 芹奈",
                     "en": "Serina Miyake"
                 },
@@ -160,7 +160,7 @@
                     "en": "M.S. Candidate"
                 },
                 "email": "miyake@ailab.ics.keio.ac.jp",
-                "img": "miyake2025.jpg"
+                "img": "miyake.jpg"
             },
             {
                 "name": {
@@ -172,7 +172,7 @@
                     "en": "M.S. Candidate"
                 },
                 "email": "matsumuro@ailab.ics.keio.ac.jp",
-                "img": "matsumuro2025.jpg"
+                "img": "matsumuro.jpg"
             },
             {
                 "name": {
