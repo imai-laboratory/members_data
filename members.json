@@ -344,11 +344,35 @@
                     "en": "Futo Sawaguchi"
                 },
                 "grade": {
-                    "ja": "学部4年",
+                    "ja": "学士課程4年",
                     "en": "Undergraduate"
                 },
                 "email": "kaede_ro_3@keio.jp",
                 "img": "sawaguchi.jpg"
+            },
+            {
+                "name": {
+                    "ja": "宮内 健詞",
+                    "en": "Kenshi Miyauchi"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
+                "email": "3miyauchi3@keio.jp",
+                "img": "Miyauchi.jpg"
+            },
+            {
+                "name": {
+                    "ja": "阿部 響基",
+                    "en": "Hibiki Abe"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
+                "email": "hibikiabe2023256@keio.jp",
+                "img": "abe.jpg"
             }
         ]
     },
