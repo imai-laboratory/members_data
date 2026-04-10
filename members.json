@@ -337,7 +337,20 @@
             "ja": "学部生",
             "en": "Undergraduate"
         },
-        "members": []
+        "members": [
+            {
+                "name": {
+                    "ja": "澤口 楓斗",
+                    "en": "Futo Sawaguchi"
+                },
+                "grade": {
+                    "ja": "学部4年",
+                    "en": "Undergraduate"
+                },
+                "email": "kaede_ro_3@keio.jp",
+                "img": "sawaguchi.jpg"
+            }
+        ]
     },
     {
         "role": {
