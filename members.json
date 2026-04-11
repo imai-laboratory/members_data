@@ -373,6 +373,18 @@
                 },
                 "email": "hibikiabe2023256@keio.jp",
                 "img": "abe.jpg"
+            },
+            {
+                "name": {
+                    "ja": "連佛 幸希",
+                    "en": "Koki Rembutsu"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
+                "email": "koki2004tv@keio.jp",
+                "img": "renbutsu.png"
             }
         ]
     },
