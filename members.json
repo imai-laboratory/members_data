@@ -329,6 +329,18 @@
                 },
                 "email": "nakamura@ailab.ics.keio.ac.jp",
                 "img": "nakamura.jpg"
+            },
+            {
+                "name": {
+                    "ja": "中村 祐子",
+                    "en": "Yuko Nakamura"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "y.nakamura@ailab.ics.keio.ac.jp",
+                "img": "nakamurayuko.jpg"
             }
         ]
     },
@@ -397,6 +409,18 @@
                 },
                 "email": "natsukikyu72@keio.jp",
                 "img": "kyushima.png"
+            },
+            {
+                "name": {
+                    "ja": "大久保 賢哉",
+                    "en": "Kenya Okubo"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
+                "email": "ken82265@keio.jp",
+                "img": "okubo.jpg"
             }
         ]
     },
