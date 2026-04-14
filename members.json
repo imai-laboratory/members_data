@@ -385,6 +385,18 @@
                 },
                 "email": "koki2004tv@keio.jp",
                 "img": "renbutsu.png"
+            },
+            {
+                "name": {
+                    "ja": "久島 菜月",
+                    "en": "Natsuki Kyushima"
+                },
+                "grade": {
+                    "ja": "学士課程4年",
+                    "en": "Undergraduate"
+                },
+                "email": "natsukikyu72@keio.jp",
+                "img": "kyushima.png"
             }
         ]
     },
