@@ -212,6 +212,18 @@
             },
             {
                 "name": {
+                    "ja": "北山 大起",
+                    "en": "Daiki Kitayama"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "kitayama@ailab.ics.keio.ac.jp",
+                "img": "kitayama.jpg"
+            },
+            {
+                "name": {
                     "ja": "Mateo Chesneau",
                     "en": "Mateo Chesneau"
                 },
