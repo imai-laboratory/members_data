@@ -72,18 +72,6 @@
             },
             {
                 "name": {
-                    "ja": "北出 卓也",
-                    "en": "Takuya Kitade"
-                },
-                "grade": {
-                    "ja": "博士課程3年",
-                    "en": "Ph.D. Candidate"
-                },
-                "email": "kitade@ailab.ics.keio.ac.jp",
-                "img": "kitade.jpg"
-            },
-            {
-                "name": {
                     "ja": "松﨑 光",
                     "en": "Hikaru Matsuzaki"
                 },
@@ -224,6 +212,18 @@
             },
             {
                 "name": {
+                    "ja": "Hanane Laassilia",
+                    "en": "Hanane Laassilia"
+                },
+                "grade": {
+                    "ja": "修士課程2年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "laassilia@ailab.ics.keio.ac.jp",
+                "img": "hanane.jpg"
+            },
+            {
+                "name": {
                     "ja": "Mateo Chesneau",
                     "en": "Mateo Chesneau"
                 },
@@ -281,6 +281,18 @@
                 },
                 "email": "ali@ailab.ics.keio.ac.jp",
                 "img": "omar.jpg"
+            },
+            {
+                "name": {
+                    "ja": "Ilyes Benzaaza",
+                    "en": "Ilyes Benzaaza"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "benzaaza@ailab.ics.keio.ac.jp",
+                "img": "benzaaza.jpg"
             },
             {
                 "name": {
