@@ -1,5 +1,45 @@
 [
     {
+        "year": 2026,
+        "members": [
+            {
+                "name": {
+                    "ja": "劉 子健",
+                    "en": "Zijian Liu"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "Rodrigo Tamaki",
+                    "en": "Rodrigo Tamaki"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "Hanane Laassilia",
+                    "en": "Hanane Laassilia"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "Ilyes Benzaaza",
+                    "en": "Ilyes Benzaaza"
+                },
+                "grade": ""
+            },
+            {
+                "name": {
+                    "ja": "Marco",
+                    "en": "Marco"
+                },
+                "grade": ""
+            }
+        ]
+    },
+    {
         "year": 2025,
         "members": [
             {

@@ -60,18 +60,6 @@
         "members": [
             {
                 "name": {
-                    "ja": "劉 子健",
-                    "en": "Zijian Liu"
-                },
-                "grade": {
-                    "ja": "博士課程5年",
-                    "en": "Ph.D. Candidate"
-                },
-                "email": "liu@ailab.ics.keio.ac.jp",
-                "img": "liu.jpeg"
-            },
-            {
-                "name": {
                     "ja": "松﨑 光",
                     "en": "Hikaru Matsuzaki"
                 },
@@ -114,18 +102,6 @@
             "en": "M.S. Candidate"
         },
         "members": [
-            {
-                "name": {
-                    "ja": "Rodrigo Tamaki",
-                    "en": "Rodrigo Tamaki"
-                },
-                "grade": {
-                    "ja": "修士課程2年",
-                    "en": "M.S. Candidate"
-                },
-                "email": "rodrigo@ailab.ics.keio.ac.jp",
-                "img": "rodrigo.jpg"
-            },
             {
                 "name": {
                     "ja": "伊藤 龍之介",
@@ -212,18 +188,6 @@
             },
             {
                 "name": {
-                    "ja": "Hanane Laassilia",
-                    "en": "Hanane Laassilia"
-                },
-                "grade": {
-                    "ja": "修士課程2年",
-                    "en": "M.S. Candidate"
-                },
-                "email": "laassilia@ailab.ics.keio.ac.jp",
-                "img": "hanane.jpg"
-            },
-            {
-                "name": {
                     "ja": "Mateo Chesneau",
                     "en": "Mateo Chesneau"
                 },
@@ -281,18 +245,6 @@
                 },
                 "email": "ali@ailab.ics.keio.ac.jp",
                 "img": "omar.jpg"
-            },
-            {
-                "name": {
-                    "ja": "Ilyes Benzaaza",
-                    "en": "Ilyes Benzaaza"
-                },
-                "grade": {
-                    "ja": "修士課程1年",
-                    "en": "M.S. Candidate"
-                },
-                "email": "benzaaza@ailab.ics.keio.ac.jp",
-                "img": "benzaaza.jpg"
             },
             {
                 "name": {
