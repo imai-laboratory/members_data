@@ -317,6 +317,18 @@
                 },
                 "email": "y.nakamura@ailab.ics.keio.ac.jp",
                 "img": "nakamurayuko.jpg"
+            },
+            {
+                "name": {
+                    "ja": "Noel Solis Verdesoto",
+                    "en": "Noel Solis Verdesoto"
+                },
+                "grade": {
+                    "ja": "修士課程1年",
+                    "en": "M.S. Candidate"
+                },
+                "email": "noel.solis@upm.es",
+                "img": "nowprinting.jpg"
             }
         ]
     },
@@ -397,26 +409,6 @@
                 },
                 "email": "ken82265@keio.jp",
                 "img": "okubo.jpg"
-            }
-        ]
-    },
-    {
-        "role": {
-            "ja": "研究室メンバー",
-            "en": "Lab Members"
-        },
-        "members": [
-            {
-                "name": {
-                    "ja": "Noel Solis Verdesoto",
-                    "en": "Noel Solis Verdesoto"
-                },
-                "grade": {
-                    "ja": "",
-                    "en": ""
-                },
-                "email": "noel.solis@upm.es",
-                "img": "nowprinting.jpg"
             }
         ]
     },
