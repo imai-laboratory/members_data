@@ -402,6 +402,26 @@
     },
     {
         "role": {
+            "ja": "研究室メンバー",
+            "en": "Lab Members"
+        },
+        "members": [
+            {
+                "name": {
+                    "ja": "Noel Solis Verdesoto",
+                    "en": "Noel Solis Verdesoto"
+                },
+                "grade": {
+                    "ja": "",
+                    "en": ""
+                },
+                "email": "noel.solis@upm.es",
+                "img": "nowprinting.jpg"
+            }
+        ]
+    },
+    {
+        "role": {
             "ja": "連携研究者",
             "en": "Collaborative researcher"
         },
